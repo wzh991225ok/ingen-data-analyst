@@ -1,0 +1,21 @@
+vertical,anchor_product,driver,low,base,high,som_at_low,som_base,som_at_high,swing_abs
+Eldercare (Fari),Fari,Addressable units,55000000,58000000,62000000,99000000,104400000,111600000,12600000
+Eldercare (Fari),Fari,Serviceable %,0.03,0.06,0.1,52200000,104400000,174000000,121800000
+Eldercare (Fari),Fari,Penetration %,0.005,0.02,0.05,26100000,104400000,261000000,234900000
+Eldercare (Fari),Fari,ASP,800,1500,2500,55680000,104400000,174000000,118320000
+Education (Senpai),Senpai,Addressable units,95000,98000,100000,3800000,3920000,4000000,200000
+Education (Senpai),Senpai,Serviceable %,0.1,0.2,0.35,1960000,3920000,6860000,4900000
+Education (Senpai),Senpai,Penetration %,0.01,0.05,0.12,784000,3920000,9408000,8624000
+Education (Senpai),Senpai,ASP,2000,4000,8000,1960000,3920000,7840000,5880000
+Indoor Security (Sentinel Prime AI),Sentinel Prime AI,Addressable units,250000,300000,350000,90000000,108000000,126000000,36000000
+Indoor Security (Sentinel Prime AI),Sentinel Prime AI,Serviceable %,0.07,0.15,0.25,50400000,108000000,180000000,129600000
+Indoor Security (Sentinel Prime AI),Sentinel Prime AI,Penetration %,0.01,0.04,0.08,27000000,108000000,216000000,189000000
+Indoor Security (Sentinel Prime AI),Sentinel Prime AI,ASP,35000,60000,90000,63000000,108000000,162000000,99000000
+Outdoor Patrol (Aido Rover),Aido Rover,Addressable units,90000,120000,150000,24300000,32400000,40500000,16200000
+Outdoor Patrol (Aido Rover),Aido Rover,Serviceable %,0.05,0.12,0.2,13500000,32400000,54000000,40500000
+Outdoor Patrol (Aido Rover),Aido Rover,Penetration %,0.005,0.03,0.07,5400000,32400000,75600000,70200000
+Outdoor Patrol (Aido Rover),Aido Rover,ASP,40000,75000,120000,17280000,32400000,51840000,34560000
+Humanoid (Aido Humanoid),Aido Humanoid,Addressable units,15000,20000,30000,3000000,4000000,6000000,3000000
+Humanoid (Aido Humanoid),Aido Humanoid,Serviceable %,0.03,0.1,0.2,1200000,4000000,8000000,6800000
+Humanoid (Aido Humanoid),Aido Humanoid,Penetration %,0.002,0.02,0.06,400000,4000000,12000000,11600000
+Humanoid (Aido Humanoid),Aido Humanoid,ASP,50000,100000,200000,2000000,4000000,8000000,6000000
