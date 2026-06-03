@@ -1,0 +1,717 @@
+<!doctype html><html><head><meta charset="utf-8">
+    <title>InGen Week 3 — Data Quality Report</title>
+    <style>
+      body{font-family:Arial,Helvetica,sans-serif;margin:32px;color:#222;}
+      h1{color:#1F3864;} h3{color:#2E5496;margin-top:28px;}
+      .meta{color:#595959;font-size:13px;}
+      table{border-collapse:collapse;margin:8px 0 16px;font-size:13px;}
+      .prof th{background:#2E5496;color:#fff;text-align:left;padding:5px 10px;}
+      .prof td{border-bottom:1px solid #e0e6f0;padding:4px 10px;}
+      .summary th{background:#1F3864;color:#fff;padding:6px 10px;text-align:left;}
+      .summary td{border-bottom:1px solid #d9e1f2;padding:5px 10px;}
+      code{background:#f2f6fc;padding:1px 4px;border-radius:3px;}
+      .kpis{display:flex;gap:18px;flex-wrap:wrap;margin:14px 0;}
+      .kpi{background:#f2f6fc;border-left:4px solid #2E5496;padding:10px 16px;}
+      .kpi b{display:block;font-size:22px;color:#1F3864;}
+    </style></head><body>
+    <h1>InGen Dynamics — Week 3 Data Quality Report</h1>
+    <p class="meta">Generated 2026-06-01 from <code>data/week03/analytics.duckdb</code>.
+    All sources are public; figures verified via the ingest manifest (sha256-versioned).
+    Run mode reflects whether data came from live APIs or schema-correct offline fallbacks.</p>
+    <div class="kpis">
+      <div class="kpi"><b>12</b>tables</div>
+      <div class="kpi"><b>6</b>schemas (1 per vertical + shared)</div>
+      <div class="kpi"><b>61</b>total rows</div>
+      <div class="kpi"><b>11</b>tables with time coverage</div>
+      <div class="kpi"><b>0.0%</b>max null rate (any column)</div>
+    </div>
+    <h2>Summary</h2>
+    <table class="dataframe summary">
+  <thead>
+    <tr style="text-align: right;">
+      <th>schema</th>
+      <th>table</th>
+      <th>rows</th>
+      <th>cols</th>
+      <th>max_null_%</th>
+      <th>year_coverage</th>
+      <th>source</th>
+      <th>mode</th>
+      <th>retrieved</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>education</td>
+      <td>nces_k12_enrollment</td>
+      <td>5</td>
+      <td>4</td>
+      <td>0.0</td>
+      <td>2019–2023</td>
+      <td>National Center for Education Statistics (Digest)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>education</td>
+      <td>worldbank_education_spend</td>
+      <td>5</td>
+      <td>4</td>
+      <td>0.0</td>
+      <td>2021–2021</td>
+      <td>World Bank (SE.XPD.TOTL.GD.ZS)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>eldercare</td>
+      <td>bls_home_health_aides</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0.0</td>
+      <td>2021–2024</td>
+      <td>US Bureau of Labor Statistics OEWS (SOC 31-1120)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>eldercare</td>
+      <td>census_population_by_age</td>
+      <td>8</td>
+      <td>5</td>
+      <td>0.0</td>
+      <td>2023–2023</td>
+      <td>US Census Bureau ACS 5-Year (B01001)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>eldercare</td>
+      <td>oecd_longterm_care_spend</td>
+      <td>6</td>
+      <td>4</td>
+      <td>0.0</td>
+      <td>2022–2022</td>
+      <td>OECD Health Statistics (System of Health Accounts, LTC)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>humanoid</td>
+      <td>openalex_robotics_publications</td>
+      <td>5</td>
+      <td>3</td>
+      <td>0.0</td>
+      <td>2019–2023</td>
+      <td>OpenAlex (concept: Robotics)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>indoor_security</td>
+      <td>bls_security_guards</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0.0</td>
+      <td>2021–2024</td>
+      <td>US Bureau of Labor Statistics OEWS (SOC 33-9032)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>indoor_security</td>
+      <td>fbi_property_crime</td>
+      <td>5</td>
+      <td>6</td>
+      <td>0.0</td>
+      <td>2019–2023</td>
+      <td>FBI UCR / Crime Data Explorer (national estimates)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>outdoor_patrol</td>
+      <td>bls_warehousing_employment</td>
+      <td>5</td>
+      <td>4</td>
+      <td>0.0</td>
+      <td>2020–2024</td>
+      <td>US Bureau of Labor Statistics CES (NAICS 493)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>shared</td>
+      <td>sec_edgar_robotics_filings</td>
+      <td>4</td>
+      <td>5</td>
+      <td>0.0</td>
+      <td></td>
+      <td>SEC EDGAR submissions API</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>shared</td>
+      <td>worldbank_pop_65plus</td>
+      <td>5</td>
+      <td>4</td>
+      <td>0.0</td>
+      <td>2023–2023</td>
+      <td>World Bank (SP.POP.65UP.TO.ZS)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
+      <td>shared</td>
+      <td>worldbank_rnd_spend</td>
+      <td>5</td>
+      <td>4</td>
+      <td>0.0</td>
+      <td>2021–2021</td>
+      <td>World Bank (GB.XPD.RSDV.GD.ZS)</td>
+      <td>offline-fallback</td>
+      <td>2026-06-01</td>
+    </tr>
+  </tbody>
+</table>
+    <h2>Per-table profiles</h2>
+    
+        <h3>education.nces_k12_enrollment</h3>
+        <p class="meta">Source: National Center for Education Statistics (Digest) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 5 &middot; cols: 4
+        &middot; years: 2019–2023<br>
+        raw sha256: <code>c480d7e2c344ff7e…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>level</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>public_enrollment</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>private_enrollment</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>education.worldbank_education_spend</h3>
+        <p class="meta">Source: World Bank (SE.XPD.TOTL.GD.ZS) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 5 &middot; cols: 4
+        &middot; years: 2021–2021<br>
+        raw sha256: <code>e595771e9e144eaa…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>country</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>iso3</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>education_spend_pct_gdp</td>
+      <td>float64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>eldercare.bls_home_health_aides</h3>
+        <p class="meta">Source: US Bureau of Labor Statistics OEWS (SOC 31-1120) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 4 &middot; cols: 5
+        &middot; years: 2021–2024<br>
+        raw sha256: <code>69400cf81a7b2d13…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>occupation</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>soc_code</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>employment</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>mean_annual_wage_usd</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>eldercare.census_population_by_age</h3>
+        <p class="meta">Source: US Census Bureau ACS 5-Year (B01001) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 8 &middot; cols: 5
+        &middot; years: 2023–2023<br>
+        raw sha256: <code>6a40c07d4376c388…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>state</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>fips</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>total_population</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>pop_65_plus</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>eldercare.oecd_longterm_care_spend</h3>
+        <p class="meta">Source: OECD Health Statistics (System of Health Accounts, LTC) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 6 &middot; cols: 4
+        &middot; years: 2022–2022<br>
+        raw sha256: <code>c0602db2d66c11a2…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>country</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>iso3</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>ltc_spend_pct_gdp</td>
+      <td>float64</td>
+      <td>0.0</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>humanoid.openalex_robotics_publications</h3>
+        <p class="meta">Source: OpenAlex (concept: Robotics) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 5 &middot; cols: 3
+        &middot; years: 2019–2023<br>
+        raw sha256: <code>4a438bc8b52282ec…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>concept</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>works_count</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>indoor_security.bls_security_guards</h3>
+        <p class="meta">Source: US Bureau of Labor Statistics OEWS (SOC 33-9032) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 4 &middot; cols: 5
+        &middot; years: 2021–2024<br>
+        raw sha256: <code>88213ef3bef58f7d…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>occupation</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>soc_code</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>employment</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>mean_annual_wage_usd</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>indoor_security.fbi_property_crime</h3>
+        <p class="meta">Source: FBI UCR / Crime Data Explorer (national estimates) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 5 &middot; cols: 6
+        &middot; years: 2019–2023<br>
+        raw sha256: <code>12d31fc210a9161d…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>population</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>property_crime</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>burglary</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>larceny_theft</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>motor_vehicle_theft</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>outdoor_patrol.bls_warehousing_employment</h3>
+        <p class="meta">Source: US Bureau of Labor Statistics CES (NAICS 493) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 5 &middot; cols: 4
+        &middot; years: 2020–2024<br>
+        raw sha256: <code>75a4cedf70f0d5d7…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>industry</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>naics</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>employment_thousands</td>
+      <td>float64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>shared.sec_edgar_robotics_filings</h3>
+        <p class="meta">Source: SEC EDGAR submissions API &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 4 &middot; cols: 5
+        <br>
+        raw sha256: <code>99c9012f0c4fda96…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>company</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>cik</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>form</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>filing_date</td>
+      <td>datetime64[us]</td>
+      <td>0.0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>fiscal_year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>shared.worldbank_pop_65plus</h3>
+        <p class="meta">Source: World Bank (SP.POP.65UP.TO.ZS) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 5 &middot; cols: 4
+        &middot; years: 2023–2023<br>
+        raw sha256: <code>227efcd1db08cfe8…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>country</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>iso3</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>pop_65plus_pct</td>
+      <td>float64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h3>shared.worldbank_rnd_spend</h3>
+        <p class="meta">Source: World Bank (GB.XPD.RSDV.GD.ZS) &middot; mode: offline-fallback
+        &middot; retrieved: 2026-06-01 &middot; rows: 5 &middot; cols: 4
+        &middot; years: 2021–2021<br>
+        raw sha256: <code>e17b29f59f6776eb…</code></p>
+        <table class="dataframe prof">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column</th>
+      <th>dtype</th>
+      <th>null_%</th>
+      <th>n_unique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>country</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>iso3</td>
+      <td>str</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>year</td>
+      <td>int64</td>
+      <td>0.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>rnd_spend_pct_gdp</td>
+      <td>float64</td>
+      <td>0.0</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+        
+    <hr><p class="meta">Prepared by Ziheng Wang · inGen Data Analyst internship · Week 3.
+    Offline-fallback rows are clearly labelled synthetic samples with the real schema;
+    set INGEST_ALLOW_NETWORK=1 and re-run the pipeline to populate from live public APIs.</p>
+    </body></html>
