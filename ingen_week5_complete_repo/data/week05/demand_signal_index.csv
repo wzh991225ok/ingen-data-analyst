@@ -1,0 +1,6 @@
+vertical,product,search_momentum_raw,news_momentum_raw,news_sentiment_raw,search_score,news_vol_score,news_tone_score,demand_index,rank
+outdoor_patrol,Aido Rover,1.051,1.111,-2.24,72.4,100.0,0.0,64.0,1
+eldercare,Fari,1.055,1.068,-1.178,80.7,47.4,41.2,59.2,2
+education,Senpai,1.023,1.106,0.335,0.0,93.8,100.0,57.8,3
+humanoid,Aido Humanoid,1.062,1.029,-1.587,100.0,0.0,25.4,46.4,4
+indoor_security,Sentinel Prime AI,1.03,1.076,-0.897,18.5,57.8,52.2,40.7,5
