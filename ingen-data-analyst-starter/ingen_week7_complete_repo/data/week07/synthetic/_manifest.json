@@ -1,0 +1,18 @@
+{
+  "seed": 20260607,
+  "generated_at": "2026-06-19T04:10:40",
+  "date_range": [
+    "2024-06-01",
+    "2026-05-31"
+  ],
+  "row_counts": {
+    "dim_date": 730,
+    "dim_geography": 14,
+    "dim_product": 5,
+    "dim_customer": 1000,
+    "fact_fleet_telemetry": 100000,
+    "fact_support_tickets": 5000,
+    "fact_sales_pipeline": 1000
+  },
+  "note": "Synthetic data only \u2014 no real InGen data. Reproducible from fixed seed."
+}

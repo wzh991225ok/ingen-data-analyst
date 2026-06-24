@@ -1,0 +1,6 @@
+duckdb>=1.0
+faker>=24.0
+pandas>=2.0
+graphviz>=0.20
+pytest>=7.0
+# system: graphviz 'dot' binary required for ER diagram rendering (apt-get install graphviz)

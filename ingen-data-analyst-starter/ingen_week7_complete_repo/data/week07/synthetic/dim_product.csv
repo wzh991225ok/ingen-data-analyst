@@ -1,0 +1,6 @@
+product_key,product_code,product_name,vertical,form_factor,launch_year,list_price_usd
+1,FARI,Fari,eldercare,companion,2023,6000
+2,SENPAI,Senpai,education,tabletop,2022,3500
+3,SENTINEL,Sentinel Prime AI,indoor_security,wheeled,2021,45000
+4,AIDOROVER,Aido Rover,outdoor_patrol,rugged-wheeled,2023,70000
+5,AIDOHUM,Aido Humanoid,humanoid,humanoid,2025,120000
