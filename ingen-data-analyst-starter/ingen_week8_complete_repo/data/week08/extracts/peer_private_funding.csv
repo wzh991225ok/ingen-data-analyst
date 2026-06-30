@@ -1,0 +1,8 @@
+name,round,date,amount_musd,post_money_busd,lead_investors,employees,source
+Figure AI,Series B,2024-02,675.0,2.6,"Microsoft, OpenAI Startup Fund, NVIDIA, Bezos Expeditions, Intel Capital",80,TechCrunch 2024-02-29; valuation $2.6B post-money
+Figure AI,Series C,2025-09,1000.0,39.0,"Parkway Venture Capital (Brookfield, LG, Salesforce, Qualcomm Ventures)",300,Thomasnet/Contrary 2025; >$1B at $39B post-money
+Apptronik,Series A,2025-02,403.0,1.5,"B Capital, Capital Factory, Google (Mercedes-Benz, ARK, Japan Post Capital)",180,GlobeNewswire 2025-02-13 & 2025-03-18 (total round $403M); ~$1.5B val
+Agility Robotics,Series C,2025-06,400.0,2.12,"Playground Global, TDK Ventures, Sony, Amazon",400,Forge/Contrary 2025-06; $2.12B post-money ($66.15/share)
+1X Technologies,Series B,2024-01,100.0,,"EQT Ventures, Samsung NEXT (OpenAI Startup Fund)",120,The Robot Report 2025 (Series B $100M; $136.5M total raised)
+Neura Robotics,Series B,2025-01,123.0,,"BlueCrest Capital, Volvo Cars Tech Fund, Delta Electronics, Lingotto",250,Forge 2025 (Series B $123M; >$280M total over 5 rounds)
+Gecko Robotics,"(latest, implied)",2025-11,,1.15,(Forge Price implied valuation),600,Forge 2025-11-05 (implied valuation $1.15B)

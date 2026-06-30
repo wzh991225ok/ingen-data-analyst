@@ -1,0 +1,6 @@
+product,vertical,robots,avg_uptime_hours,errors,tickets,avg_resolution_hours,avg_csat,opportunities,win_rate_pct,won_value
+Aido Humanoid,humanoid,75,14.72,19830.0,963,50.7,3.82,227,33.9,95004504.0
+Aido Rover,outdoor_patrol,52,14.76,12807.0,1009,52.2,3.83,188,38.3,57311819.0
+Sentinel Prime AI,indoor_security,67,14.7,16636.0,1041,53.7,3.8,192,35.9,36813144.0
+Fari,eldercare,57,14.73,14064.0,969,51.9,3.83,201,35.8,4902914.0
+Senpai,education,79,14.74,19528.0,1018,54.7,3.89,192,37.5,2934279.0
