@@ -1,0 +1,121 @@
+vertical,model,date,yhat
+indoor_security,Seasonal naive,2026-07,40.5
+indoor_security,Seasonal naive,2026-08,43.0
+indoor_security,Seasonal naive,2026-09,42.0
+indoor_security,Seasonal naive,2026-10,38.5
+indoor_security,Seasonal naive,2026-11,48.0
+indoor_security,Seasonal naive,2026-12,45.5
+indoor_security,Seasonal naive,2027-01,47.0
+indoor_security,Seasonal naive,2027-02,46.0
+indoor_security,Seasonal naive,2027-03,42.0
+indoor_security,Seasonal naive,2027-04,41.5
+indoor_security,Seasonal naive,2027-05,47.5
+indoor_security,Seasonal naive,2027-06,46.0
+indoor_security,Seasonal naive,2027-07,40.5
+indoor_security,Seasonal naive,2027-08,43.0
+indoor_security,Seasonal naive,2027-09,42.0
+indoor_security,Seasonal naive,2027-10,38.5
+indoor_security,Seasonal naive,2027-11,48.0
+indoor_security,Seasonal naive,2027-12,45.5
+indoor_security,Seasonal naive,2028-01,47.0
+indoor_security,Seasonal naive,2028-02,46.0
+indoor_security,Seasonal naive,2028-03,42.0
+indoor_security,Seasonal naive,2028-04,41.5
+indoor_security,Seasonal naive,2028-05,47.5
+indoor_security,Seasonal naive,2028-06,46.0
+indoor_security,ETS,2026-07,45.63
+indoor_security,ETS,2026-08,45.33
+indoor_security,ETS,2026-09,45.13
+indoor_security,ETS,2026-10,46.13
+indoor_security,ETS,2026-11,48.52
+indoor_security,ETS,2026-12,46.63
+indoor_security,ETS,2027-01,46.12
+indoor_security,ETS,2027-02,46.42
+indoor_security,ETS,2027-03,45.83
+indoor_security,ETS,2027-04,46.93
+indoor_security,ETS,2027-05,48.22
+indoor_security,ETS,2027-06,45.82
+indoor_security,ETS,2027-07,47.63
+indoor_security,ETS,2027-08,47.33
+indoor_security,ETS,2027-09,47.13
+indoor_security,ETS,2027-10,48.13
+indoor_security,ETS,2027-11,50.53
+indoor_security,ETS,2027-12,48.63
+indoor_security,ETS,2028-01,48.13
+indoor_security,ETS,2028-02,48.43
+indoor_security,ETS,2028-03,47.83
+indoor_security,ETS,2028-04,48.93
+indoor_security,ETS,2028-05,50.23
+indoor_security,ETS,2028-06,47.83
+indoor_security,ARIMA,2026-07,43.75
+indoor_security,ARIMA,2026-08,44.61
+indoor_security,ARIMA,2026-09,44.84
+indoor_security,ARIMA,2026-10,44.57
+indoor_security,ARIMA,2026-11,44.6
+indoor_security,ARIMA,2026-12,44.66
+indoor_security,ARIMA,2027-01,44.63
+indoor_security,ARIMA,2027-02,44.63
+indoor_security,ARIMA,2027-03,44.63
+indoor_security,ARIMA,2027-04,44.63
+indoor_security,ARIMA,2027-05,44.63
+indoor_security,ARIMA,2027-06,44.63
+indoor_security,ARIMA,2027-07,44.63
+indoor_security,ARIMA,2027-08,44.63
+indoor_security,ARIMA,2027-09,44.63
+indoor_security,ARIMA,2027-10,44.63
+indoor_security,ARIMA,2027-11,44.63
+indoor_security,ARIMA,2027-12,44.63
+indoor_security,ARIMA,2028-01,44.63
+indoor_security,ARIMA,2028-02,44.63
+indoor_security,ARIMA,2028-03,44.63
+indoor_security,ARIMA,2028-04,44.63
+indoor_security,ARIMA,2028-05,44.63
+indoor_security,ARIMA,2028-06,44.63
+indoor_security,Prophet,2026-07,45.64
+indoor_security,Prophet,2026-08,45.32
+indoor_security,Prophet,2026-09,45.46
+indoor_security,Prophet,2026-10,46.21
+indoor_security,Prophet,2026-11,47.94
+indoor_security,Prophet,2026-12,47.35
+indoor_security,Prophet,2027-01,45.78
+indoor_security,Prophet,2027-02,45.81
+indoor_security,Prophet,2027-03,46.93
+indoor_security,Prophet,2027-04,48.68
+indoor_security,Prophet,2027-05,46.65
+indoor_security,Prophet,2027-06,45.33
+indoor_security,Prophet,2027-07,47.69
+indoor_security,Prophet,2027-08,47.35
+indoor_security,Prophet,2027-09,48.02
+indoor_security,Prophet,2027-10,48.33
+indoor_security,Prophet,2027-11,48.99
+indoor_security,Prophet,2027-12,50.57
+indoor_security,Prophet,2028-01,47.17
+indoor_security,Prophet,2028-02,46.82
+indoor_security,Prophet,2028-03,46.59
+indoor_security,Prophet,2028-04,46.89
+indoor_security,Prophet,2028-05,51.99
+indoor_security,Prophet,2028-06,48.41
+indoor_security,XGBoost,2026-07,44.65
+indoor_security,XGBoost,2026-08,43.84
+indoor_security,XGBoost,2026-09,41.91
+indoor_security,XGBoost,2026-10,42.26
+indoor_security,XGBoost,2026-11,44.7
+indoor_security,XGBoost,2026-12,46.74
+indoor_security,XGBoost,2027-01,45.11
+indoor_security,XGBoost,2027-02,44.36
+indoor_security,XGBoost,2027-03,43.18
+indoor_security,XGBoost,2027-04,42.22
+indoor_security,XGBoost,2027-05,43.84
+indoor_security,XGBoost,2027-06,46.93
+indoor_security,XGBoost,2027-07,45.03
+indoor_security,XGBoost,2027-08,42.55
+indoor_security,XGBoost,2027-09,43.29
+indoor_security,XGBoost,2027-10,42.68
+indoor_security,XGBoost,2027-11,43.8
+indoor_security,XGBoost,2027-12,44.81
+indoor_security,XGBoost,2028-01,45.06
+indoor_security,XGBoost,2028-02,44.01
+indoor_security,XGBoost,2028-03,43.97
+indoor_security,XGBoost,2028-04,43.73
+indoor_security,XGBoost,2028-05,44.6
+indoor_security,XGBoost,2028-06,44.57

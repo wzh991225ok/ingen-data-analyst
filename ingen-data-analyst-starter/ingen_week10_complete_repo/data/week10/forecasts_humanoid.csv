@@ -1,0 +1,121 @@
+vertical,model,date,yhat
+humanoid,Seasonal naive,2026-07,56.0
+humanoid,Seasonal naive,2026-08,57.5
+humanoid,Seasonal naive,2026-09,60.0
+humanoid,Seasonal naive,2026-10,59.5
+humanoid,Seasonal naive,2026-11,53.0
+humanoid,Seasonal naive,2026-12,58.0
+humanoid,Seasonal naive,2027-01,57.0
+humanoid,Seasonal naive,2027-02,56.0
+humanoid,Seasonal naive,2027-03,58.5
+humanoid,Seasonal naive,2027-04,62.5
+humanoid,Seasonal naive,2027-05,60.0
+humanoid,Seasonal naive,2027-06,62.5
+humanoid,Seasonal naive,2027-07,56.0
+humanoid,Seasonal naive,2027-08,57.5
+humanoid,Seasonal naive,2027-09,60.0
+humanoid,Seasonal naive,2027-10,59.5
+humanoid,Seasonal naive,2027-11,53.0
+humanoid,Seasonal naive,2027-12,58.0
+humanoid,Seasonal naive,2028-01,57.0
+humanoid,Seasonal naive,2028-02,56.0
+humanoid,Seasonal naive,2028-03,58.5
+humanoid,Seasonal naive,2028-04,62.5
+humanoid,Seasonal naive,2028-05,60.0
+humanoid,Seasonal naive,2028-06,62.5
+humanoid,ETS,2026-07,59.19
+humanoid,ETS,2026-08,60.79
+humanoid,ETS,2026-09,61.89
+humanoid,ETS,2026-10,61.19
+humanoid,ETS,2026-11,60.39
+humanoid,ETS,2026-12,60.69
+humanoid,ETS,2027-01,59.39
+humanoid,ETS,2027-02,59.69
+humanoid,ETS,2027-03,61.49
+humanoid,ETS,2027-04,62.59
+humanoid,ETS,2027-05,63.09
+humanoid,ETS,2027-06,63.79
+humanoid,ETS,2027-07,62.18
+humanoid,ETS,2027-08,63.78
+humanoid,ETS,2027-09,64.88
+humanoid,ETS,2027-10,64.18
+humanoid,ETS,2027-11,63.38
+humanoid,ETS,2027-12,63.68
+humanoid,ETS,2028-01,62.38
+humanoid,ETS,2028-02,62.68
+humanoid,ETS,2028-03,64.48
+humanoid,ETS,2028-04,65.58
+humanoid,ETS,2028-05,66.08
+humanoid,ETS,2028-06,66.78
+humanoid,ARIMA,2026-07,60.1
+humanoid,ARIMA,2026-08,60.87
+humanoid,ARIMA,2026-09,60.07
+humanoid,ARIMA,2026-10,60.71
+humanoid,ARIMA,2026-11,60.18
+humanoid,ARIMA,2026-12,60.62
+humanoid,ARIMA,2027-01,60.25
+humanoid,ARIMA,2027-02,60.55
+humanoid,ARIMA,2027-03,60.31
+humanoid,ARIMA,2027-04,60.51
+humanoid,ARIMA,2027-05,60.34
+humanoid,ARIMA,2027-06,60.48
+humanoid,ARIMA,2027-07,60.37
+humanoid,ARIMA,2027-08,60.46
+humanoid,ARIMA,2027-09,60.38
+humanoid,ARIMA,2027-10,60.45
+humanoid,ARIMA,2027-11,60.39
+humanoid,ARIMA,2027-12,60.44
+humanoid,ARIMA,2028-01,60.4
+humanoid,ARIMA,2028-02,60.43
+humanoid,ARIMA,2028-03,60.41
+humanoid,ARIMA,2028-04,60.43
+humanoid,ARIMA,2028-05,60.41
+humanoid,ARIMA,2028-06,60.42
+humanoid,Prophet,2026-07,58.91
+humanoid,Prophet,2026-08,60.26
+humanoid,Prophet,2026-09,62.91
+humanoid,Prophet,2026-10,61.22
+humanoid,Prophet,2026-11,59.91
+humanoid,Prophet,2026-12,60.97
+humanoid,Prophet,2027-01,58.8
+humanoid,Prophet,2027-02,60.17
+humanoid,Prophet,2027-03,60.17
+humanoid,Prophet,2027-04,64.74
+humanoid,Prophet,2027-05,62.4
+humanoid,Prophet,2027-06,63.47
+humanoid,Prophet,2027-07,61.46
+humanoid,Prophet,2027-08,62.45
+humanoid,Prophet,2027-09,67.65
+humanoid,Prophet,2027-10,64.22
+humanoid,Prophet,2027-11,62.11
+humanoid,Prophet,2027-12,64.44
+humanoid,Prophet,2028-01,60.82
+humanoid,Prophet,2028-02,63.98
+humanoid,Prophet,2028-03,66.01
+humanoid,Prophet,2028-04,63.13
+humanoid,Prophet,2028-05,66.83
+humanoid,Prophet,2028-06,67.13
+humanoid,XGBoost,2026-07,60.1
+humanoid,XGBoost,2026-08,60.77
+humanoid,XGBoost,2026-09,60.86
+humanoid,XGBoost,2026-10,60.48
+humanoid,XGBoost,2026-11,60.72
+humanoid,XGBoost,2026-12,59.23
+humanoid,XGBoost,2027-01,60.17
+humanoid,XGBoost,2027-02,62.56
+humanoid,XGBoost,2027-03,59.34
+humanoid,XGBoost,2027-04,60.31
+humanoid,XGBoost,2027-05,61.16
+humanoid,XGBoost,2027-06,60.79
+humanoid,XGBoost,2027-07,60.72
+humanoid,XGBoost,2027-08,60.64
+humanoid,XGBoost,2027-09,60.66
+humanoid,XGBoost,2027-10,60.52
+humanoid,XGBoost,2027-11,59.13
+humanoid,XGBoost,2027-12,58.8
+humanoid,XGBoost,2028-01,59.29
+humanoid,XGBoost,2028-02,60.7
+humanoid,XGBoost,2028-03,61.18
+humanoid,XGBoost,2028-04,60.64
+humanoid,XGBoost,2028-05,60.65
+humanoid,XGBoost,2028-06,60.65

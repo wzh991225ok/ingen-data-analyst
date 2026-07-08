@@ -1,0 +1,121 @@
+vertical,model,date,yhat
+education,Seasonal naive,2026-07,56.0
+education,Seasonal naive,2026-08,56.3
+education,Seasonal naive,2026-09,54.0
+education,Seasonal naive,2026-10,51.0
+education,Seasonal naive,2026-11,55.0
+education,Seasonal naive,2026-12,56.0
+education,Seasonal naive,2027-01,53.0
+education,Seasonal naive,2027-02,57.0
+education,Seasonal naive,2027-03,53.7
+education,Seasonal naive,2027-04,53.7
+education,Seasonal naive,2027-05,53.3
+education,Seasonal naive,2027-06,57.7
+education,Seasonal naive,2027-07,56.0
+education,Seasonal naive,2027-08,56.3
+education,Seasonal naive,2027-09,54.0
+education,Seasonal naive,2027-10,51.0
+education,Seasonal naive,2027-11,55.0
+education,Seasonal naive,2027-12,56.0
+education,Seasonal naive,2028-01,53.0
+education,Seasonal naive,2028-02,57.0
+education,Seasonal naive,2028-03,53.7
+education,Seasonal naive,2028-04,53.7
+education,Seasonal naive,2028-05,53.3
+education,Seasonal naive,2028-06,57.7
+education,ETS,2026-07,56.51
+education,ETS,2026-08,57.97
+education,ETS,2026-09,55.29
+education,ETS,2026-10,55.71
+education,ETS,2026-11,57.17
+education,ETS,2026-12,54.63
+education,ETS,2027-01,56.59
+education,ETS,2027-02,57.91
+education,ETS,2027-03,54.77
+education,ETS,2027-04,56.57
+education,ETS,2027-05,57.15
+education,ETS,2027-06,58.18
+education,ETS,2027-07,58.01
+education,ETS,2027-08,59.47
+education,ETS,2027-09,56.79
+education,ETS,2027-10,57.21
+education,ETS,2027-11,58.67
+education,ETS,2027-12,56.13
+education,ETS,2028-01,58.1
+education,ETS,2028-02,59.42
+education,ETS,2028-03,56.28
+education,ETS,2028-04,58.08
+education,ETS,2028-05,58.66
+education,ETS,2028-06,59.68
+education,ARIMA,2026-07,54.26
+education,ARIMA,2026-08,54.69
+education,ARIMA,2026-09,55.16
+education,ARIMA,2026-10,54.77
+education,ARIMA,2026-11,54.91
+education,ARIMA,2026-12,54.91
+education,ARIMA,2027-01,54.88
+education,ARIMA,2027-02,54.9
+education,ARIMA,2027-03,54.89
+education,ARIMA,2027-04,54.89
+education,ARIMA,2027-05,54.89
+education,ARIMA,2027-06,54.89
+education,ARIMA,2027-07,54.89
+education,ARIMA,2027-08,54.89
+education,ARIMA,2027-09,54.89
+education,ARIMA,2027-10,54.89
+education,ARIMA,2027-11,54.89
+education,ARIMA,2027-12,54.89
+education,ARIMA,2028-01,54.89
+education,ARIMA,2028-02,54.89
+education,ARIMA,2028-03,54.89
+education,ARIMA,2028-04,54.89
+education,ARIMA,2028-05,54.89
+education,ARIMA,2028-06,54.89
+education,Prophet,2026-07,55.97
+education,Prophet,2026-08,57.47
+education,Prophet,2026-09,54.06
+education,Prophet,2026-10,55.94
+education,Prophet,2026-11,57.07
+education,Prophet,2026-12,54.11
+education,Prophet,2027-01,56.18
+education,Prophet,2027-02,56.96
+education,Prophet,2027-03,53.65
+education,Prophet,2027-04,57.64
+education,Prophet,2027-05,55.73
+education,Prophet,2027-06,58.81
+education,Prophet,2027-07,56.85
+education,Prophet,2027-08,58.48
+education,Prophet,2027-09,53.95
+education,Prophet,2027-10,58.31
+education,Prophet,2027-11,58.87
+education,Prophet,2027-12,55.24
+education,Prophet,2028-01,57.54
+education,Prophet,2028-02,57.46
+education,Prophet,2028-03,56.17
+education,Prophet,2028-04,55.4
+education,Prophet,2028-05,58.76
+education,Prophet,2028-06,57.37
+education,XGBoost,2026-07,55.83
+education,XGBoost,2026-08,55.79
+education,XGBoost,2026-09,53.84
+education,XGBoost,2026-10,54.82
+education,XGBoost,2026-11,53.99
+education,XGBoost,2026-12,55.12
+education,XGBoost,2027-01,54.75
+education,XGBoost,2027-02,55.23
+education,XGBoost,2027-03,55.07
+education,XGBoost,2027-04,55.04
+education,XGBoost,2027-05,55.03
+education,XGBoost,2027-06,55.9
+education,XGBoost,2027-07,55.65
+education,XGBoost,2027-08,55.87
+education,XGBoost,2027-09,54.69
+education,XGBoost,2027-10,55.39
+education,XGBoost,2027-11,54.87
+education,XGBoost,2027-12,55.13
+education,XGBoost,2028-01,54.75
+education,XGBoost,2028-02,55.06
+education,XGBoost,2028-03,55.06
+education,XGBoost,2028-04,55.03
+education,XGBoost,2028-05,54.99
+education,XGBoost,2028-06,55.86

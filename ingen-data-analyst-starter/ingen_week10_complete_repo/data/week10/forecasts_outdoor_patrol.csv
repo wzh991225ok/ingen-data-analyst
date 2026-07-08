@@ -1,0 +1,121 @@
+vertical,model,date,yhat
+outdoor_patrol,Seasonal naive,2026-07,57.0
+outdoor_patrol,Seasonal naive,2026-08,56.0
+outdoor_patrol,Seasonal naive,2026-09,56.3
+outdoor_patrol,Seasonal naive,2026-10,53.0
+outdoor_patrol,Seasonal naive,2026-11,54.3
+outdoor_patrol,Seasonal naive,2026-12,51.7
+outdoor_patrol,Seasonal naive,2027-01,57.0
+outdoor_patrol,Seasonal naive,2027-02,56.3
+outdoor_patrol,Seasonal naive,2027-03,59.7
+outdoor_patrol,Seasonal naive,2027-04,58.0
+outdoor_patrol,Seasonal naive,2027-05,58.3
+outdoor_patrol,Seasonal naive,2027-06,60.0
+outdoor_patrol,Seasonal naive,2027-07,57.0
+outdoor_patrol,Seasonal naive,2027-08,56.0
+outdoor_patrol,Seasonal naive,2027-09,56.3
+outdoor_patrol,Seasonal naive,2027-10,53.0
+outdoor_patrol,Seasonal naive,2027-11,54.3
+outdoor_patrol,Seasonal naive,2027-12,51.7
+outdoor_patrol,Seasonal naive,2028-01,57.0
+outdoor_patrol,Seasonal naive,2028-02,56.3
+outdoor_patrol,Seasonal naive,2028-03,59.7
+outdoor_patrol,Seasonal naive,2028-04,58.0
+outdoor_patrol,Seasonal naive,2028-05,58.3
+outdoor_patrol,Seasonal naive,2028-06,60.0
+outdoor_patrol,ETS,2026-07,59.2
+outdoor_patrol,ETS,2026-08,58.22
+outdoor_patrol,ETS,2026-09,58.54
+outdoor_patrol,ETS,2026-10,57.06
+outdoor_patrol,ETS,2026-11,57.46
+outdoor_patrol,ETS,2026-12,58.14
+outdoor_patrol,ETS,2027-01,60.06
+outdoor_patrol,ETS,2027-02,59.14
+outdoor_patrol,ETS,2027-03,59.34
+outdoor_patrol,ETS,2027-04,59.48
+outdoor_patrol,ETS,2027-05,60.4
+outdoor_patrol,ETS,2027-06,61.06
+outdoor_patrol,ETS,2027-07,61.92
+outdoor_patrol,ETS,2027-08,60.94
+outdoor_patrol,ETS,2027-09,61.26
+outdoor_patrol,ETS,2027-10,59.78
+outdoor_patrol,ETS,2027-11,60.18
+outdoor_patrol,ETS,2027-12,60.86
+outdoor_patrol,ETS,2028-01,62.78
+outdoor_patrol,ETS,2028-02,61.86
+outdoor_patrol,ETS,2028-03,62.06
+outdoor_patrol,ETS,2028-04,62.2
+outdoor_patrol,ETS,2028-05,63.12
+outdoor_patrol,ETS,2028-06,63.78
+outdoor_patrol,ARIMA,2026-07,58.55
+outdoor_patrol,ARIMA,2026-08,58.55
+outdoor_patrol,ARIMA,2026-09,58.25
+outdoor_patrol,ARIMA,2026-10,58.33
+outdoor_patrol,ARIMA,2026-11,58.25
+outdoor_patrol,ARIMA,2026-12,58.29
+outdoor_patrol,ARIMA,2027-01,58.26
+outdoor_patrol,ARIMA,2027-02,58.27
+outdoor_patrol,ARIMA,2027-03,58.26
+outdoor_patrol,ARIMA,2027-04,58.27
+outdoor_patrol,ARIMA,2027-05,58.27
+outdoor_patrol,ARIMA,2027-06,58.27
+outdoor_patrol,ARIMA,2027-07,58.27
+outdoor_patrol,ARIMA,2027-08,58.27
+outdoor_patrol,ARIMA,2027-09,58.27
+outdoor_patrol,ARIMA,2027-10,58.27
+outdoor_patrol,ARIMA,2027-11,58.27
+outdoor_patrol,ARIMA,2027-12,58.27
+outdoor_patrol,ARIMA,2028-01,58.27
+outdoor_patrol,ARIMA,2028-02,58.27
+outdoor_patrol,ARIMA,2028-03,58.27
+outdoor_patrol,ARIMA,2028-04,58.27
+outdoor_patrol,ARIMA,2028-05,58.27
+outdoor_patrol,ARIMA,2028-06,58.27
+outdoor_patrol,Prophet,2026-07,59.66
+outdoor_patrol,Prophet,2026-08,58.64
+outdoor_patrol,Prophet,2026-09,57.66
+outdoor_patrol,Prophet,2026-10,57.9
+outdoor_patrol,Prophet,2026-11,57.93
+outdoor_patrol,Prophet,2026-12,58.97
+outdoor_patrol,Prophet,2027-01,60.21
+outdoor_patrol,Prophet,2027-02,59.28
+outdoor_patrol,Prophet,2027-03,59.65
+outdoor_patrol,Prophet,2027-04,60.0
+outdoor_patrol,Prophet,2027-05,60.67
+outdoor_patrol,Prophet,2027-06,62.27
+outdoor_patrol,Prophet,2027-07,62.9
+outdoor_patrol,Prophet,2027-08,61.73
+outdoor_patrol,Prophet,2027-09,58.63
+outdoor_patrol,Prophet,2027-10,61.75
+outdoor_patrol,Prophet,2027-11,61.09
+outdoor_patrol,Prophet,2027-12,62.67
+outdoor_patrol,Prophet,2028-01,62.74
+outdoor_patrol,Prophet,2028-02,61.8
+outdoor_patrol,Prophet,2028-03,62.8
+outdoor_patrol,Prophet,2028-04,62.73
+outdoor_patrol,Prophet,2028-05,63.98
+outdoor_patrol,Prophet,2028-06,63.59
+outdoor_patrol,XGBoost,2026-07,58.02
+outdoor_patrol,XGBoost,2026-08,58.73
+outdoor_patrol,XGBoost,2026-09,56.04
+outdoor_patrol,XGBoost,2026-10,55.87
+outdoor_patrol,XGBoost,2026-11,55.31
+outdoor_patrol,XGBoost,2026-12,55.18
+outdoor_patrol,XGBoost,2027-01,55.78
+outdoor_patrol,XGBoost,2027-02,56.0
+outdoor_patrol,XGBoost,2027-03,58.17
+outdoor_patrol,XGBoost,2027-04,58.14
+outdoor_patrol,XGBoost,2027-05,58.85
+outdoor_patrol,XGBoost,2027-06,58.72
+outdoor_patrol,XGBoost,2027-07,58.46
+outdoor_patrol,XGBoost,2027-08,58.42
+outdoor_patrol,XGBoost,2027-09,56.75
+outdoor_patrol,XGBoost,2027-10,55.95
+outdoor_patrol,XGBoost,2027-11,55.5
+outdoor_patrol,XGBoost,2027-12,55.14
+outdoor_patrol,XGBoost,2028-01,56.33
+outdoor_patrol,XGBoost,2028-02,56.39
+outdoor_patrol,XGBoost,2028-03,58.16
+outdoor_patrol,XGBoost,2028-04,58.33
+outdoor_patrol,XGBoost,2028-05,58.86
+outdoor_patrol,XGBoost,2028-06,58.86
