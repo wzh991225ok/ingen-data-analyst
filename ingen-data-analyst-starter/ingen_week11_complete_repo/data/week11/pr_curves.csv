@@ -1,0 +1,1803 @@
+dataset,model,recall,precision
+NAB machine_temperature,Isolation Forest,1.0,0.1103
+NAB machine_temperature,Isolation Forest,1.0,0.1108
+NAB machine_temperature,Isolation Forest,1.0,0.1114
+NAB machine_temperature,Isolation Forest,1.0,0.1119
+NAB machine_temperature,Isolation Forest,1.0,0.1125
+NAB machine_temperature,Isolation Forest,1.0,0.1131
+NAB machine_temperature,Isolation Forest,1.0,0.1137
+NAB machine_temperature,Isolation Forest,1.0,0.1143
+NAB machine_temperature,Isolation Forest,1.0,0.1149
+NAB machine_temperature,Isolation Forest,1.0,0.1155
+NAB machine_temperature,Isolation Forest,1.0,0.1161
+NAB machine_temperature,Isolation Forest,1.0,0.1167
+NAB machine_temperature,Isolation Forest,1.0,0.1173
+NAB machine_temperature,Isolation Forest,1.0,0.118
+NAB machine_temperature,Isolation Forest,1.0,0.1186
+NAB machine_temperature,Isolation Forest,1.0,0.1192
+NAB machine_temperature,Isolation Forest,1.0,0.1199
+NAB machine_temperature,Isolation Forest,1.0,0.1205
+NAB machine_temperature,Isolation Forest,1.0,0.1212
+NAB machine_temperature,Isolation Forest,1.0,0.1219
+NAB machine_temperature,Isolation Forest,1.0,0.1226
+NAB machine_temperature,Isolation Forest,1.0,0.1232
+NAB machine_temperature,Isolation Forest,1.0,0.1239
+NAB machine_temperature,Isolation Forest,1.0,0.1246
+NAB machine_temperature,Isolation Forest,1.0,0.1254
+NAB machine_temperature,Isolation Forest,1.0,0.1261
+NAB machine_temperature,Isolation Forest,1.0,0.1268
+NAB machine_temperature,Isolation Forest,1.0,0.1275
+NAB machine_temperature,Isolation Forest,1.0,0.1283
+NAB machine_temperature,Isolation Forest,1.0,0.129
+NAB machine_temperature,Isolation Forest,1.0,0.1298
+NAB machine_temperature,Isolation Forest,1.0,0.1306
+NAB machine_temperature,Isolation Forest,1.0,0.1313
+NAB machine_temperature,Isolation Forest,1.0,0.1321
+NAB machine_temperature,Isolation Forest,1.0,0.1329
+NAB machine_temperature,Isolation Forest,1.0,0.1338
+NAB machine_temperature,Isolation Forest,1.0,0.1346
+NAB machine_temperature,Isolation Forest,1.0,0.1354
+NAB machine_temperature,Isolation Forest,1.0,0.1362
+NAB machine_temperature,Isolation Forest,1.0,0.1371
+NAB machine_temperature,Isolation Forest,0.9991,0.1378
+NAB machine_temperature,Isolation Forest,0.9991,0.1387
+NAB machine_temperature,Isolation Forest,0.9991,0.1396
+NAB machine_temperature,Isolation Forest,0.9991,0.1405
+NAB machine_temperature,Isolation Forest,0.9991,0.1414
+NAB machine_temperature,Isolation Forest,0.9991,0.1423
+NAB machine_temperature,Isolation Forest,0.9987,0.1432
+NAB machine_temperature,Isolation Forest,0.9987,0.1441
+NAB machine_temperature,Isolation Forest,0.9982,0.145
+NAB machine_temperature,Isolation Forest,0.9982,0.146
+NAB machine_temperature,Isolation Forest,0.9978,0.1469
+NAB machine_temperature,Isolation Forest,0.9978,0.1479
+NAB machine_temperature,Isolation Forest,0.9974,0.1488
+NAB machine_temperature,Isolation Forest,0.9974,0.1498
+NAB machine_temperature,Isolation Forest,0.9974,0.1508
+NAB machine_temperature,Isolation Forest,0.9974,0.1519
+NAB machine_temperature,Isolation Forest,0.9969,0.1529
+NAB machine_temperature,Isolation Forest,0.9965,0.1539
+NAB machine_temperature,Isolation Forest,0.9965,0.155
+NAB machine_temperature,Isolation Forest,0.9956,0.1559
+NAB machine_temperature,Isolation Forest,0.9956,0.1571
+NAB machine_temperature,Isolation Forest,0.9951,0.1581
+NAB machine_temperature,Isolation Forest,0.9938,0.1591
+NAB machine_temperature,Isolation Forest,0.9938,0.1602
+NAB machine_temperature,Isolation Forest,0.9938,0.1614
+NAB machine_temperature,Isolation Forest,0.9925,0.1624
+NAB machine_temperature,Isolation Forest,0.9921,0.1635
+NAB machine_temperature,Isolation Forest,0.9912,0.1646
+NAB machine_temperature,Isolation Forest,0.9899,0.1657
+NAB machine_temperature,Isolation Forest,0.9894,0.1669
+NAB machine_temperature,Isolation Forest,0.9885,0.168
+NAB machine_temperature,Isolation Forest,0.9877,0.1692
+NAB machine_temperature,Isolation Forest,0.9863,0.1703
+NAB machine_temperature,Isolation Forest,0.985,0.1714
+NAB machine_temperature,Isolation Forest,0.9841,0.1726
+NAB machine_temperature,Isolation Forest,0.9828,0.1737
+NAB machine_temperature,Isolation Forest,0.981,0.1748
+NAB machine_temperature,Isolation Forest,0.9793,0.1759
+NAB machine_temperature,Isolation Forest,0.978,0.1772
+NAB machine_temperature,Isolation Forest,0.9766,0.1784
+NAB machine_temperature,Isolation Forest,0.9757,0.1797
+NAB machine_temperature,Isolation Forest,0.974,0.1809
+NAB machine_temperature,Isolation Forest,0.9727,0.1822
+NAB machine_temperature,Isolation Forest,0.97,0.1833
+NAB machine_temperature,Isolation Forest,0.9683,0.1845
+NAB machine_temperature,Isolation Forest,0.966,0.1857
+NAB machine_temperature,Isolation Forest,0.9656,0.1873
+NAB machine_temperature,Isolation Forest,0.9634,0.1885
+NAB machine_temperature,Isolation Forest,0.9612,0.1898
+NAB machine_temperature,Isolation Forest,0.9594,0.1912
+NAB machine_temperature,Isolation Forest,0.9572,0.1925
+NAB machine_temperature,Isolation Forest,0.9546,0.1937
+NAB machine_temperature,Isolation Forest,0.9533,0.1952
+NAB machine_temperature,Isolation Forest,0.9528,0.197
+NAB machine_temperature,Isolation Forest,0.9497,0.1982
+NAB machine_temperature,Isolation Forest,0.9475,0.1996
+NAB machine_temperature,Isolation Forest,0.944,0.2008
+NAB machine_temperature,Isolation Forest,0.9392,0.2017
+NAB machine_temperature,Isolation Forest,0.9387,0.2037
+NAB machine_temperature,Isolation Forest,0.9361,0.2051
+NAB machine_temperature,Isolation Forest,0.9339,0.2067
+NAB machine_temperature,Isolation Forest,0.9325,0.2085
+NAB machine_temperature,Isolation Forest,0.9281,0.2096
+NAB machine_temperature,Isolation Forest,0.9255,0.2112
+NAB machine_temperature,Isolation Forest,0.9228,0.2128
+NAB machine_temperature,Isolation Forest,0.9206,0.2145
+NAB machine_temperature,Isolation Forest,0.9189,0.2164
+NAB machine_temperature,Isolation Forest,0.9175,0.2185
+NAB machine_temperature,Isolation Forest,0.9167,0.2207
+NAB machine_temperature,Isolation Forest,0.9136,0.2224
+NAB machine_temperature,Isolation Forest,0.9123,0.2245
+NAB machine_temperature,Isolation Forest,0.9083,0.2261
+NAB machine_temperature,Isolation Forest,0.9065,0.2282
+NAB machine_temperature,Isolation Forest,0.9052,0.2305
+NAB machine_temperature,Isolation Forest,0.9039,0.2329
+NAB machine_temperature,Isolation Forest,0.9026,0.2354
+NAB machine_temperature,Isolation Forest,0.9008,0.2377
+NAB machine_temperature,Isolation Forest,0.8968,0.2396
+NAB machine_temperature,Isolation Forest,0.8929,0.2415
+NAB machine_temperature,Isolation Forest,0.8902,0.2438
+NAB machine_temperature,Isolation Forest,0.8876,0.2461
+NAB machine_temperature,Isolation Forest,0.8867,0.2491
+NAB machine_temperature,Isolation Forest,0.8854,0.2519
+NAB machine_temperature,Isolation Forest,0.8827,0.2545
+NAB machine_temperature,Isolation Forest,0.8801,0.2571
+NAB machine_temperature,Isolation Forest,0.8765,0.2595
+NAB machine_temperature,Isolation Forest,0.8743,0.2624
+NAB machine_temperature,Isolation Forest,0.8721,0.2654
+NAB machine_temperature,Isolation Forest,0.869,0.2681
+NAB machine_temperature,Isolation Forest,0.8668,0.2713
+NAB machine_temperature,Isolation Forest,0.8642,0.2744
+NAB machine_temperature,Isolation Forest,0.8629,0.2779
+NAB machine_temperature,Isolation Forest,0.8602,0.2812
+NAB machine_temperature,Isolation Forest,0.8598,0.2853
+NAB machine_temperature,Isolation Forest,0.8541,0.2878
+NAB machine_temperature,Isolation Forest,0.851,0.2912
+NAB machine_temperature,Isolation Forest,0.8474,0.2947
+NAB machine_temperature,Isolation Forest,0.8461,0.299
+NAB machine_temperature,Isolation Forest,0.843,0.3027
+NAB machine_temperature,Isolation Forest,0.8413,0.3071
+NAB machine_temperature,Isolation Forest,0.8399,0.3118
+NAB machine_temperature,Isolation Forest,0.8355,0.3156
+NAB machine_temperature,Isolation Forest,0.8302,0.319
+NAB machine_temperature,Isolation Forest,0.8276,0.3237
+NAB machine_temperature,Isolation Forest,0.8241,0.3281
+NAB machine_temperature,Isolation Forest,0.8205,0.3328
+NAB machine_temperature,Isolation Forest,0.8166,0.3375
+NAB machine_temperature,Isolation Forest,0.8086,0.3406
+NAB machine_temperature,Isolation Forest,0.8047,0.3456
+NAB machine_temperature,Isolation Forest,0.7985,0.3497
+NAB machine_temperature,Isolation Forest,0.795,0.3553
+NAB machine_temperature,Isolation Forest,0.7901,0.3605
+NAB machine_temperature,Isolation Forest,0.7844,0.3654
+NAB machine_temperature,Isolation Forest,0.7769,0.3698
+NAB machine_temperature,Isolation Forest,0.7685,0.3739
+NAB machine_temperature,Isolation Forest,0.7632,0.3797
+NAB machine_temperature,Isolation Forest,0.7575,0.3856
+NAB machine_temperature,Isolation Forest,0.7509,0.3913
+NAB machine_temperature,Isolation Forest,0.7469,0.3987
+NAB machine_temperature,Isolation Forest,0.7403,0.405
+NAB machine_temperature,Isolation Forest,0.731,0.4101
+NAB machine_temperature,Isolation Forest,0.7244,0.4172
+NAB machine_temperature,Isolation Forest,0.7178,0.4245
+NAB machine_temperature,Isolation Forest,0.7086,0.4306
+NAB machine_temperature,Isolation Forest,0.6989,0.4368
+NAB machine_temperature,Isolation Forest,0.6883,0.4427
+NAB machine_temperature,Isolation Forest,0.6786,0.4497
+NAB machine_temperature,Isolation Forest,0.6706,0.4583
+NAB machine_temperature,Isolation Forest,0.6636,0.468
+NAB machine_temperature,Isolation Forest,0.6565,0.4783
+NAB machine_temperature,Isolation Forest,0.6459,0.4869
+NAB machine_temperature,Isolation Forest,0.6371,0.4972
+NAB machine_temperature,Isolation Forest,0.6287,0.5087
+NAB machine_temperature,Isolation Forest,0.6173,0.5185
+NAB machine_temperature,Isolation Forest,0.6019,0.5256
+NAB machine_temperature,Isolation Forest,0.5882,0.5351
+NAB machine_temperature,Isolation Forest,0.5732,0.5439
+NAB machine_temperature,Isolation Forest,0.5551,0.5507
+NAB machine_temperature,Isolation Forest,0.5379,0.5591
+NAB machine_temperature,Isolation Forest,0.5168,0.5637
+NAB machine_temperature,Isolation Forest,0.4978,0.5719
+NAB machine_temperature,Isolation Forest,0.4735,0.574
+NAB machine_temperature,Isolation Forest,0.4528,0.5809
+NAB machine_temperature,Isolation Forest,0.4264,0.5808
+NAB machine_temperature,Isolation Forest,0.4048,0.5877
+NAB machine_temperature,Isolation Forest,0.3774,0.5883
+NAB machine_temperature,Isolation Forest,0.3501,0.5877
+NAB machine_temperature,Isolation Forest,0.321,0.5838
+NAB machine_temperature,Isolation Forest,0.2892,0.5749
+NAB machine_temperature,Isolation Forest,0.2606,0.5699
+NAB machine_temperature,Isolation Forest,0.2359,0.5734
+NAB machine_temperature,Isolation Forest,0.2125,0.5807
+NAB machine_temperature,Isolation Forest,0.1909,0.5956
+NAB machine_temperature,Isolation Forest,0.1675,0.609
+NAB machine_temperature,Isolation Forest,0.1429,0.6231
+NAB machine_temperature,Isolation Forest,0.1142,0.6226
+NAB machine_temperature,Isolation Forest,0.0873,0.6326
+NAB machine_temperature,Isolation Forest,0.0595,0.6459
+NAB machine_temperature,Isolation Forest,0.0317,0.6857
+NAB machine_temperature,Isolation Forest,0.0,1.0
+NAB machine_temperature,One-Class SVM,1.0,0.1103
+NAB machine_temperature,One-Class SVM,1.0,0.1108
+NAB machine_temperature,One-Class SVM,1.0,0.1114
+NAB machine_temperature,One-Class SVM,1.0,0.1119
+NAB machine_temperature,One-Class SVM,1.0,0.1125
+NAB machine_temperature,One-Class SVM,1.0,0.1131
+NAB machine_temperature,One-Class SVM,1.0,0.1137
+NAB machine_temperature,One-Class SVM,1.0,0.1143
+NAB machine_temperature,One-Class SVM,1.0,0.1149
+NAB machine_temperature,One-Class SVM,1.0,0.1155
+NAB machine_temperature,One-Class SVM,1.0,0.1161
+NAB machine_temperature,One-Class SVM,1.0,0.1167
+NAB machine_temperature,One-Class SVM,1.0,0.1173
+NAB machine_temperature,One-Class SVM,1.0,0.118
+NAB machine_temperature,One-Class SVM,1.0,0.1186
+NAB machine_temperature,One-Class SVM,1.0,0.1192
+NAB machine_temperature,One-Class SVM,0.9991,0.1198
+NAB machine_temperature,One-Class SVM,0.9982,0.1203
+NAB machine_temperature,One-Class SVM,0.9978,0.121
+NAB machine_temperature,One-Class SVM,0.9965,0.1215
+NAB machine_temperature,One-Class SVM,0.9947,0.1219
+NAB machine_temperature,One-Class SVM,0.9934,0.1224
+NAB machine_temperature,One-Class SVM,0.9916,0.1229
+NAB machine_temperature,One-Class SVM,0.9903,0.1235
+NAB machine_temperature,One-Class SVM,0.9885,0.1239
+NAB machine_temperature,One-Class SVM,0.9859,0.1243
+NAB machine_temperature,One-Class SVM,0.9819,0.1245
+NAB machine_temperature,One-Class SVM,0.9802,0.125
+NAB machine_temperature,One-Class SVM,0.978,0.1255
+NAB machine_temperature,One-Class SVM,0.9771,0.1261
+NAB machine_temperature,One-Class SVM,0.9757,0.1267
+NAB machine_temperature,One-Class SVM,0.9731,0.1271
+NAB machine_temperature,One-Class SVM,0.97,0.1274
+NAB machine_temperature,One-Class SVM,0.9678,0.1279
+NAB machine_temperature,One-Class SVM,0.9634,0.1281
+NAB machine_temperature,One-Class SVM,0.9608,0.1285
+NAB machine_temperature,One-Class SVM,0.959,0.1291
+NAB machine_temperature,One-Class SVM,0.9568,0.1296
+NAB machine_temperature,One-Class SVM,0.9541,0.13
+NAB machine_temperature,One-Class SVM,0.9506,0.1304
+NAB machine_temperature,One-Class SVM,0.9489,0.1309
+NAB machine_temperature,One-Class SVM,0.9462,0.1314
+NAB machine_temperature,One-Class SVM,0.9449,0.132
+NAB machine_temperature,One-Class SVM,0.9436,0.1327
+NAB machine_temperature,One-Class SVM,0.9427,0.1334
+NAB machine_temperature,One-Class SVM,0.9418,0.1342
+NAB machine_temperature,One-Class SVM,0.9414,0.135
+NAB machine_temperature,One-Class SVM,0.94,0.1357
+NAB machine_temperature,One-Class SVM,0.9392,0.1365
+NAB machine_temperature,One-Class SVM,0.9383,0.1372
+NAB machine_temperature,One-Class SVM,0.9374,0.138
+NAB machine_temperature,One-Class SVM,0.9361,0.1388
+NAB machine_temperature,One-Class SVM,0.9347,0.1395
+NAB machine_temperature,One-Class SVM,0.933,0.1402
+NAB machine_temperature,One-Class SVM,0.9325,0.1411
+NAB machine_temperature,One-Class SVM,0.9321,0.142
+NAB machine_temperature,One-Class SVM,0.9312,0.1429
+NAB machine_temperature,One-Class SVM,0.9295,0.1436
+NAB machine_temperature,One-Class SVM,0.929,0.1446
+NAB machine_temperature,One-Class SVM,0.9277,0.1454
+NAB machine_temperature,One-Class SVM,0.9255,0.1461
+NAB machine_temperature,One-Class SVM,0.925,0.1471
+NAB machine_temperature,One-Class SVM,0.9233,0.1479
+NAB machine_temperature,One-Class SVM,0.9215,0.1486
+NAB machine_temperature,One-Class SVM,0.9202,0.1495
+NAB machine_temperature,One-Class SVM,0.9193,0.1505
+NAB machine_temperature,One-Class SVM,0.914,0.1508
+NAB machine_temperature,One-Class SVM,0.9101,0.1513
+NAB machine_temperature,One-Class SVM,0.9074,0.152
+NAB machine_temperature,One-Class SVM,0.9052,0.1528
+NAB machine_temperature,One-Class SVM,0.9043,0.1538
+NAB machine_temperature,One-Class SVM,0.903,0.1548
+NAB machine_temperature,One-Class SVM,0.9026,0.1559
+NAB machine_temperature,One-Class SVM,0.8999,0.1567
+NAB machine_temperature,One-Class SVM,0.899,0.1578
+NAB machine_temperature,One-Class SVM,0.8986,0.159
+NAB machine_temperature,One-Class SVM,0.8955,0.1597
+NAB machine_temperature,One-Class SVM,0.8951,0.1609
+NAB machine_temperature,One-Class SVM,0.8933,0.162
+NAB machine_temperature,One-Class SVM,0.892,0.1631
+NAB machine_temperature,One-Class SVM,0.8911,0.1643
+NAB machine_temperature,One-Class SVM,0.8898,0.1654
+NAB machine_temperature,One-Class SVM,0.8889,0.1667
+NAB machine_temperature,One-Class SVM,0.888,0.1679
+NAB machine_temperature,One-Class SVM,0.8867,0.1691
+NAB machine_temperature,One-Class SVM,0.8862,0.1705
+NAB machine_temperature,One-Class SVM,0.8862,0.172
+NAB machine_temperature,One-Class SVM,0.8858,0.1735
+NAB machine_temperature,One-Class SVM,0.8845,0.1748
+NAB machine_temperature,One-Class SVM,0.8836,0.1762
+NAB machine_temperature,One-Class SVM,0.8827,0.1776
+NAB machine_temperature,One-Class SVM,0.8818,0.1791
+NAB machine_temperature,One-Class SVM,0.8801,0.1804
+NAB machine_temperature,One-Class SVM,0.8796,0.182
+NAB machine_temperature,One-Class SVM,0.8792,0.1837
+NAB machine_temperature,One-Class SVM,0.8787,0.1853
+NAB machine_temperature,One-Class SVM,0.8779,0.1869
+NAB machine_temperature,One-Class SVM,0.8774,0.1887
+NAB machine_temperature,One-Class SVM,0.8761,0.1903
+NAB machine_temperature,One-Class SVM,0.8743,0.1918
+NAB machine_temperature,One-Class SVM,0.873,0.1934
+NAB machine_temperature,One-Class SVM,0.8713,0.195
+NAB machine_temperature,One-Class SVM,0.8699,0.1967
+NAB machine_temperature,One-Class SVM,0.8682,0.1984
+NAB machine_temperature,One-Class SVM,0.8668,0.2001
+NAB machine_temperature,One-Class SVM,0.8655,0.202
+NAB machine_temperature,One-Class SVM,0.8646,0.2039
+NAB machine_temperature,One-Class SVM,0.8638,0.2059
+NAB machine_temperature,One-Class SVM,0.8624,0.2079
+NAB machine_temperature,One-Class SVM,0.8624,0.2102
+NAB machine_temperature,One-Class SVM,0.8607,0.2121
+NAB machine_temperature,One-Class SVM,0.8585,0.214
+NAB machine_temperature,One-Class SVM,0.858,0.2163
+NAB machine_temperature,One-Class SVM,0.8549,0.218
+NAB machine_temperature,One-Class SVM,0.8492,0.2191
+NAB machine_temperature,One-Class SVM,0.8466,0.221
+NAB machine_temperature,One-Class SVM,0.8439,0.223
+NAB machine_temperature,One-Class SVM,0.8386,0.2243
+NAB machine_temperature,One-Class SVM,0.8311,0.225
+NAB machine_temperature,One-Class SVM,0.8267,0.2266
+NAB machine_temperature,One-Class SVM,0.8205,0.2278
+NAB machine_temperature,One-Class SVM,0.8161,0.2295
+NAB machine_temperature,One-Class SVM,0.8113,0.2311
+NAB machine_temperature,One-Class SVM,0.8069,0.2328
+NAB machine_temperature,One-Class SVM,0.802,0.2345
+NAB machine_temperature,One-Class SVM,0.7994,0.2369
+NAB machine_temperature,One-Class SVM,0.795,0.2388
+NAB machine_temperature,One-Class SVM,0.7932,0.2416
+NAB machine_temperature,One-Class SVM,0.7897,0.2439
+NAB machine_temperature,One-Class SVM,0.7857,0.2461
+NAB machine_temperature,One-Class SVM,0.7826,0.2487
+NAB machine_temperature,One-Class SVM,0.7791,0.2512
+NAB machine_temperature,One-Class SVM,0.7738,0.2532
+NAB machine_temperature,One-Class SVM,0.7716,0.2564
+NAB machine_temperature,One-Class SVM,0.7663,0.2585
+NAB machine_temperature,One-Class SVM,0.7623,0.2612
+NAB machine_temperature,One-Class SVM,0.7575,0.2637
+NAB machine_temperature,One-Class SVM,0.7531,0.2663
+NAB machine_temperature,One-Class SVM,0.7487,0.2691
+NAB machine_temperature,One-Class SVM,0.7407,0.2707
+NAB machine_temperature,One-Class SVM,0.7354,0.2733
+NAB machine_temperature,One-Class SVM,0.7293,0.2757
+NAB machine_temperature,One-Class SVM,0.7222,0.2778
+NAB machine_temperature,One-Class SVM,0.716,0.2803
+NAB machine_temperature,One-Class SVM,0.7116,0.2837
+NAB machine_temperature,One-Class SVM,0.7077,0.2873
+NAB machine_temperature,One-Class SVM,0.7015,0.2902
+NAB machine_temperature,One-Class SVM,0.6966,0.2937
+NAB machine_temperature,One-Class SVM,0.6914,0.2972
+NAB machine_temperature,One-Class SVM,0.6878,0.3016
+NAB machine_temperature,One-Class SVM,0.6852,0.3065
+NAB machine_temperature,One-Class SVM,0.6825,0.3117
+NAB machine_temperature,One-Class SVM,0.6781,0.3163
+NAB machine_temperature,One-Class SVM,0.6742,0.3212
+NAB machine_temperature,One-Class SVM,0.6698,0.3262
+NAB machine_temperature,One-Class SVM,0.6675,0.3325
+NAB machine_temperature,One-Class SVM,0.6636,0.3382
+NAB machine_temperature,One-Class SVM,0.6601,0.3445
+NAB machine_temperature,One-Class SVM,0.6574,0.3514
+NAB machine_temperature,One-Class SVM,0.6526,0.3575
+NAB machine_temperature,One-Class SVM,0.6468,0.3635
+NAB machine_temperature,One-Class SVM,0.6415,0.3699
+NAB machine_temperature,One-Class SVM,0.6367,0.377
+NAB machine_temperature,One-Class SVM,0.6287,0.3827
+NAB machine_temperature,One-Class SVM,0.6257,0.3917
+NAB machine_temperature,One-Class SVM,0.619,0.3989
+NAB machine_temperature,One-Class SVM,0.6129,0.4069
+NAB machine_temperature,One-Class SVM,0.6071,0.4156
+NAB machine_temperature,One-Class SVM,0.601,0.4246
+NAB machine_temperature,One-Class SVM,0.5948,0.4343
+NAB machine_temperature,One-Class SVM,0.5873,0.4436
+NAB machine_temperature,One-Class SVM,0.578,0.4521
+NAB machine_temperature,One-Class SVM,0.5732,0.4649
+NAB machine_temperature,One-Class SVM,0.5679,0.4783
+NAB machine_temperature,One-Class SVM,0.5635,0.4934
+NAB machine_temperature,One-Class SVM,0.5569,0.508
+NAB machine_temperature,One-Class SVM,0.5507,0.5241
+NAB machine_temperature,One-Class SVM,0.5414,0.5386
+NAB machine_temperature,One-Class SVM,0.5326,0.5551
+NAB machine_temperature,One-Class SVM,0.526,0.5755
+NAB machine_temperature,One-Class SVM,0.5163,0.5944
+NAB machine_temperature,One-Class SVM,0.5079,0.6174
+NAB machine_temperature,One-Class SVM,0.5004,0.6438
+NAB machine_temperature,One-Class SVM,0.4793,0.6548
+NAB machine_temperature,One-Class SVM,0.4524,0.6594
+NAB machine_temperature,One-Class SVM,0.4145,0.6469
+NAB machine_temperature,One-Class SVM,0.3774,0.6341
+NAB machine_temperature,One-Class SVM,0.3541,0.6445
+NAB machine_temperature,One-Class SVM,0.3439,0.6824
+NAB machine_temperature,One-Class SVM,0.3245,0.7077
+NAB machine_temperature,One-Class SVM,0.3042,0.7372
+NAB machine_temperature,One-Class SVM,0.2646,0.7203
+NAB machine_temperature,One-Class SVM,0.2249,0.6986
+NAB machine_temperature,One-Class SVM,0.1834,0.6645
+NAB machine_temperature,One-Class SVM,0.1402,0.608
+NAB machine_temperature,One-Class SVM,0.1005,0.5429
+NAB machine_temperature,One-Class SVM,0.0679,0.4873
+NAB machine_temperature,One-Class SVM,0.0441,0.4695
+NAB machine_temperature,One-Class SVM,0.0278,0.5727
+NAB machine_temperature,One-Class SVM,0.0,1.0
+NAB machine_temperature,LOF,1.0,0.1103
+NAB machine_temperature,LOF,0.9996,0.1108
+NAB machine_temperature,LOF,0.9978,0.1111
+NAB machine_temperature,LOF,0.996,0.1115
+NAB machine_temperature,LOF,0.9943,0.1119
+NAB machine_temperature,LOF,0.9921,0.1122
+NAB machine_temperature,LOF,0.9916,0.1128
+NAB machine_temperature,LOF,0.9881,0.1129
+NAB machine_temperature,LOF,0.9859,0.1133
+NAB machine_temperature,LOF,0.985,0.1138
+NAB machine_temperature,LOF,0.9832,0.1142
+NAB machine_temperature,LOF,0.9806,0.1145
+NAB machine_temperature,LOF,0.978,0.1148
+NAB machine_temperature,LOF,0.9775,0.1153
+NAB machine_temperature,LOF,0.9744,0.1156
+NAB machine_temperature,LOF,0.9731,0.1161
+NAB machine_temperature,LOF,0.9709,0.1164
+NAB machine_temperature,LOF,0.9709,0.1171
+NAB machine_temperature,LOF,0.9709,0.1177
+NAB machine_temperature,LOF,0.9691,0.1182
+NAB machine_temperature,LOF,0.9674,0.1186
+NAB machine_temperature,LOF,0.9665,0.1192
+NAB machine_temperature,LOF,0.9643,0.1196
+NAB machine_temperature,LOF,0.9643,0.1202
+NAB machine_temperature,LOF,0.9621,0.1206
+NAB machine_temperature,LOF,0.9603,0.1211
+NAB machine_temperature,LOF,0.9568,0.1214
+NAB machine_temperature,LOF,0.9555,0.1219
+NAB machine_temperature,LOF,0.9546,0.1225
+NAB machine_temperature,LOF,0.9524,0.1229
+NAB machine_temperature,LOF,0.9497,0.1233
+NAB machine_temperature,LOF,0.948,0.1238
+NAB machine_temperature,LOF,0.9466,0.1244
+NAB machine_temperature,LOF,0.9431,0.1247
+NAB machine_temperature,LOF,0.9418,0.1253
+NAB machine_temperature,LOF,0.94,0.1258
+NAB machine_temperature,LOF,0.9378,0.1263
+NAB machine_temperature,LOF,0.9356,0.1267
+NAB machine_temperature,LOF,0.9339,0.1273
+NAB machine_temperature,LOF,0.9321,0.1278
+NAB machine_temperature,LOF,0.929,0.1282
+NAB machine_temperature,LOF,0.9272,0.1288
+NAB machine_temperature,LOF,0.9233,0.1291
+NAB machine_temperature,LOF,0.9206,0.1295
+NAB machine_temperature,LOF,0.9171,0.1298
+NAB machine_temperature,LOF,0.9123,0.13
+NAB machine_temperature,LOF,0.9096,0.1305
+NAB machine_temperature,LOF,0.9074,0.131
+NAB machine_temperature,LOF,0.9065,0.1317
+NAB machine_temperature,LOF,0.9034,0.1322
+NAB machine_temperature,LOF,0.903,0.133
+NAB machine_temperature,LOF,0.9017,0.1337
+NAB machine_temperature,LOF,0.8986,0.1341
+NAB machine_temperature,LOF,0.8959,0.1347
+NAB machine_temperature,LOF,0.8955,0.1355
+NAB machine_temperature,LOF,0.8942,0.1363
+NAB machine_temperature,LOF,0.8876,0.1362
+NAB machine_temperature,LOF,0.8836,0.1365
+NAB machine_temperature,LOF,0.8832,0.1375
+NAB machine_temperature,LOF,0.8796,0.1379
+NAB machine_temperature,LOF,0.877,0.1385
+NAB machine_temperature,LOF,0.8748,0.1391
+NAB machine_temperature,LOF,0.8726,0.1398
+NAB machine_temperature,LOF,0.8717,0.1407
+NAB machine_temperature,LOF,0.8704,0.1415
+NAB machine_temperature,LOF,0.8686,0.1422
+NAB machine_temperature,LOF,0.8673,0.1431
+NAB machine_temperature,LOF,0.8651,0.1438
+NAB machine_temperature,LOF,0.8633,0.1446
+NAB machine_temperature,LOF,0.8616,0.1454
+NAB machine_temperature,LOF,0.8607,0.1464
+NAB machine_temperature,LOF,0.8567,0.1469
+NAB machine_temperature,LOF,0.8558,0.1479
+NAB machine_temperature,LOF,0.8519,0.1484
+NAB machine_temperature,LOF,0.8501,0.1492
+NAB machine_temperature,LOF,0.8483,0.1501
+NAB machine_temperature,LOF,0.8461,0.151
+NAB machine_temperature,LOF,0.8444,0.1519
+NAB machine_temperature,LOF,0.8422,0.1527
+NAB machine_temperature,LOF,0.8386,0.1534
+NAB machine_temperature,LOF,0.836,0.1542
+NAB machine_temperature,LOF,0.8347,0.1552
+NAB machine_temperature,LOF,0.8333,0.1563
+NAB machine_temperature,LOF,0.8325,0.1575
+NAB machine_temperature,LOF,0.8311,0.1586
+NAB machine_temperature,LOF,0.8289,0.1596
+NAB machine_temperature,LOF,0.8263,0.1605
+NAB machine_temperature,LOF,0.8245,0.1616
+NAB machine_temperature,LOF,0.8236,0.1628
+NAB machine_temperature,LOF,0.8214,0.1639
+NAB machine_temperature,LOF,0.8192,0.1649
+NAB machine_temperature,LOF,0.8166,0.1659
+NAB machine_temperature,LOF,0.8135,0.1668
+NAB machine_temperature,LOF,0.8113,0.168
+NAB machine_temperature,LOF,0.8095,0.1692
+NAB machine_temperature,LOF,0.8082,0.1705
+NAB machine_temperature,LOF,0.806,0.1717
+NAB machine_temperature,LOF,0.8038,0.1729
+NAB machine_temperature,LOF,0.8011,0.1741
+NAB machine_temperature,LOF,0.7981,0.1751
+NAB machine_temperature,LOF,0.7945,0.1761
+NAB machine_temperature,LOF,0.7906,0.177
+NAB machine_temperature,LOF,0.7862,0.1779
+NAB machine_temperature,LOF,0.7826,0.1789
+NAB machine_temperature,LOF,0.7791,0.18
+NAB machine_temperature,LOF,0.7765,0.1813
+NAB machine_temperature,LOF,0.7738,0.1826
+NAB machine_temperature,LOF,0.7707,0.1838
+NAB machine_temperature,LOF,0.7668,0.1849
+NAB machine_temperature,LOF,0.7588,0.185
+NAB machine_temperature,LOF,0.7531,0.1857
+NAB machine_temperature,LOF,0.75,0.187
+NAB machine_temperature,LOF,0.7456,0.1881
+NAB machine_temperature,LOF,0.7394,0.1887
+NAB machine_temperature,LOF,0.7332,0.1893
+NAB machine_temperature,LOF,0.7275,0.19
+NAB machine_temperature,LOF,0.7191,0.1901
+NAB machine_temperature,LOF,0.7138,0.191
+NAB machine_temperature,LOF,0.7077,0.1917
+NAB machine_temperature,LOF,0.7024,0.1927
+NAB machine_temperature,LOF,0.698,0.1939
+NAB machine_temperature,LOF,0.6922,0.1947
+NAB machine_temperature,LOF,0.6874,0.1959
+NAB machine_temperature,LOF,0.6817,0.1968
+NAB machine_temperature,LOF,0.675,0.1975
+NAB machine_temperature,LOF,0.6693,0.1985
+NAB machine_temperature,LOF,0.6631,0.1993
+NAB machine_temperature,LOF,0.6552,0.1997
+NAB machine_temperature,LOF,0.6477,0.2002
+NAB machine_temperature,LOF,0.6389,0.2003
+NAB machine_temperature,LOF,0.6274,0.1996
+NAB machine_temperature,LOF,0.6155,0.1986
+NAB machine_temperature,LOF,0.6045,0.198
+NAB machine_temperature,LOF,0.5882,0.1956
+NAB machine_temperature,LOF,0.5754,0.1943
+NAB machine_temperature,LOF,0.5639,0.1933
+NAB machine_temperature,LOF,0.5503,0.1917
+NAB machine_temperature,LOF,0.5388,0.1907
+NAB machine_temperature,LOF,0.5304,0.1908
+NAB machine_temperature,LOF,0.5212,0.1906
+NAB machine_temperature,LOF,0.5137,0.191
+NAB machine_temperature,LOF,0.5075,0.192
+NAB machine_temperature,LOF,0.4951,0.1906
+NAB machine_temperature,LOF,0.4832,0.1894
+NAB machine_temperature,LOF,0.4731,0.1887
+NAB machine_temperature,LOF,0.4643,0.1887
+NAB machine_temperature,LOF,0.4528,0.1875
+NAB machine_temperature,LOF,0.4431,0.187
+NAB machine_temperature,LOF,0.4321,0.1859
+NAB machine_temperature,LOF,0.4215,0.185
+NAB machine_temperature,LOF,0.4145,0.1856
+NAB machine_temperature,LOF,0.4061,0.1856
+NAB machine_temperature,LOF,0.3999,0.1867
+NAB machine_temperature,LOF,0.3951,0.1885
+NAB machine_temperature,LOF,0.3902,0.1903
+NAB machine_temperature,LOF,0.388,0.1935
+NAB machine_temperature,LOF,0.3836,0.1958
+NAB machine_temperature,LOF,0.3774,0.1972
+NAB machine_temperature,LOF,0.3726,0.1994
+NAB machine_temperature,LOF,0.3695,0.2027
+NAB machine_temperature,LOF,0.3651,0.2054
+NAB machine_temperature,LOF,0.3602,0.208
+NAB machine_temperature,LOF,0.3567,0.2116
+NAB machine_temperature,LOF,0.3536,0.2155
+NAB machine_temperature,LOF,0.3496,0.2192
+NAB machine_temperature,LOF,0.3474,0.2242
+NAB machine_temperature,LOF,0.3426,0.2278
+NAB machine_temperature,LOF,0.3408,0.2337
+NAB machine_temperature,LOF,0.3382,0.2394
+NAB machine_temperature,LOF,0.3338,0.2441
+NAB machine_temperature,LOF,0.3311,0.2505
+NAB machine_temperature,LOF,0.3263,0.2557
+NAB machine_temperature,LOF,0.3201,0.2601
+NAB machine_temperature,LOF,0.3148,0.2656
+NAB machine_temperature,LOF,0.3082,0.2705
+NAB machine_temperature,LOF,0.3038,0.2777
+NAB machine_temperature,LOF,0.2967,0.2831
+NAB machine_temperature,LOF,0.2941,0.2933
+NAB machine_temperature,LOF,0.2892,0.3022
+NAB machine_temperature,LOF,0.2817,0.3091
+NAB machine_temperature,LOF,0.2769,0.3198
+NAB machine_temperature,LOF,0.2734,0.3332
+NAB machine_temperature,LOF,0.2694,0.3478
+NAB machine_temperature,LOF,0.2632,0.3609
+NAB machine_temperature,LOF,0.2566,0.3752
+NAB machine_temperature,LOF,0.2469,0.387
+NAB machine_temperature,LOF,0.2372,0.4003
+NAB machine_temperature,LOF,0.2257,0.4126
+NAB machine_temperature,LOF,0.2156,0.4301
+NAB machine_temperature,LOF,0.209,0.4584
+NAB machine_temperature,LOF,0.1993,0.4855
+NAB machine_temperature,LOF,0.1852,0.5079
+NAB machine_temperature,LOF,0.168,0.5262
+NAB machine_temperature,LOF,0.149,0.5443
+NAB machine_temperature,LOF,0.1257,0.5513
+NAB machine_temperature,LOF,0.0939,0.5145
+NAB machine_temperature,LOF,0.067,0.4887
+NAB machine_temperature,LOF,0.0388,0.4251
+NAB machine_temperature,LOF,0.0097,0.2115
+NAB machine_temperature,LOF,0.0,1.0
+NAB machine_temperature,AutoEncoder,1.0,0.1103
+NAB machine_temperature,AutoEncoder,1.0,0.1108
+NAB machine_temperature,AutoEncoder,1.0,0.1114
+NAB machine_temperature,AutoEncoder,1.0,0.1119
+NAB machine_temperature,AutoEncoder,1.0,0.1125
+NAB machine_temperature,AutoEncoder,1.0,0.1131
+NAB machine_temperature,AutoEncoder,1.0,0.1137
+NAB machine_temperature,AutoEncoder,1.0,0.1143
+NAB machine_temperature,AutoEncoder,1.0,0.1149
+NAB machine_temperature,AutoEncoder,1.0,0.1155
+NAB machine_temperature,AutoEncoder,1.0,0.1161
+NAB machine_temperature,AutoEncoder,1.0,0.1167
+NAB machine_temperature,AutoEncoder,1.0,0.1173
+NAB machine_temperature,AutoEncoder,1.0,0.118
+NAB machine_temperature,AutoEncoder,1.0,0.1186
+NAB machine_temperature,AutoEncoder,1.0,0.1192
+NAB machine_temperature,AutoEncoder,1.0,0.1199
+NAB machine_temperature,AutoEncoder,1.0,0.1206
+NAB machine_temperature,AutoEncoder,1.0,0.1212
+NAB machine_temperature,AutoEncoder,1.0,0.1219
+NAB machine_temperature,AutoEncoder,1.0,0.1226
+NAB machine_temperature,AutoEncoder,1.0,0.1233
+NAB machine_temperature,AutoEncoder,1.0,0.124
+NAB machine_temperature,AutoEncoder,1.0,0.1247
+NAB machine_temperature,AutoEncoder,1.0,0.1254
+NAB machine_temperature,AutoEncoder,1.0,0.1261
+NAB machine_temperature,AutoEncoder,1.0,0.1268
+NAB machine_temperature,AutoEncoder,1.0,0.1276
+NAB machine_temperature,AutoEncoder,1.0,0.1283
+NAB machine_temperature,AutoEncoder,1.0,0.1291
+NAB machine_temperature,AutoEncoder,1.0,0.1298
+NAB machine_temperature,AutoEncoder,1.0,0.1306
+NAB machine_temperature,AutoEncoder,1.0,0.1314
+NAB machine_temperature,AutoEncoder,1.0,0.1322
+NAB machine_temperature,AutoEncoder,1.0,0.133
+NAB machine_temperature,AutoEncoder,0.9996,0.1337
+NAB machine_temperature,AutoEncoder,0.9996,0.1346
+NAB machine_temperature,AutoEncoder,0.9996,0.1354
+NAB machine_temperature,AutoEncoder,0.9996,0.1362
+NAB machine_temperature,AutoEncoder,0.9996,0.1371
+NAB machine_temperature,AutoEncoder,0.9996,0.1379
+NAB machine_temperature,AutoEncoder,0.9991,0.1388
+NAB machine_temperature,AutoEncoder,0.9991,0.1396
+NAB machine_temperature,AutoEncoder,0.9991,0.1405
+NAB machine_temperature,AutoEncoder,0.9991,0.1414
+NAB machine_temperature,AutoEncoder,0.9991,0.1424
+NAB machine_temperature,AutoEncoder,0.9987,0.1432
+NAB machine_temperature,AutoEncoder,0.9982,0.1441
+NAB machine_temperature,AutoEncoder,0.9982,0.1451
+NAB machine_temperature,AutoEncoder,0.9982,0.146
+NAB machine_temperature,AutoEncoder,0.9982,0.147
+NAB machine_temperature,AutoEncoder,0.9982,0.148
+NAB machine_temperature,AutoEncoder,0.9982,0.149
+NAB machine_temperature,AutoEncoder,0.9978,0.15
+NAB machine_temperature,AutoEncoder,0.9978,0.151
+NAB machine_temperature,AutoEncoder,0.9974,0.152
+NAB machine_temperature,AutoEncoder,0.9969,0.153
+NAB machine_temperature,AutoEncoder,0.9969,0.1541
+NAB machine_temperature,AutoEncoder,0.9956,0.1549
+NAB machine_temperature,AutoEncoder,0.9956,0.156
+NAB machine_temperature,AutoEncoder,0.9951,0.1571
+NAB machine_temperature,AutoEncoder,0.9943,0.1581
+NAB machine_temperature,AutoEncoder,0.9938,0.1592
+NAB machine_temperature,AutoEncoder,0.9938,0.1604
+NAB machine_temperature,AutoEncoder,0.9925,0.1613
+NAB machine_temperature,AutoEncoder,0.9925,0.1625
+NAB machine_temperature,AutoEncoder,0.9916,0.1636
+NAB machine_temperature,AutoEncoder,0.9903,0.1646
+NAB machine_temperature,AutoEncoder,0.9903,0.1659
+NAB machine_temperature,AutoEncoder,0.9903,0.1672
+NAB machine_temperature,AutoEncoder,0.9894,0.1683
+NAB machine_temperature,AutoEncoder,0.9872,0.1692
+NAB machine_temperature,AutoEncoder,0.9868,0.1705
+NAB machine_temperature,AutoEncoder,0.9854,0.1716
+NAB machine_temperature,AutoEncoder,0.9841,0.1728
+NAB machine_temperature,AutoEncoder,0.9824,0.1738
+NAB machine_temperature,AutoEncoder,0.9815,0.1751
+NAB machine_temperature,AutoEncoder,0.9793,0.1761
+NAB machine_temperature,AutoEncoder,0.9766,0.1771
+NAB machine_temperature,AutoEncoder,0.9757,0.1784
+NAB machine_temperature,AutoEncoder,0.9735,0.1795
+NAB machine_temperature,AutoEncoder,0.9718,0.1807
+NAB machine_temperature,AutoEncoder,0.9705,0.182
+NAB machine_temperature,AutoEncoder,0.9691,0.1834
+NAB machine_temperature,AutoEncoder,0.9691,0.1849
+NAB machine_temperature,AutoEncoder,0.9683,0.1864
+NAB machine_temperature,AutoEncoder,0.966,0.1876
+NAB machine_temperature,AutoEncoder,0.9652,0.1891
+NAB machine_temperature,AutoEncoder,0.9643,0.1906
+NAB machine_temperature,AutoEncoder,0.9625,0.192
+NAB machine_temperature,AutoEncoder,0.9612,0.1935
+NAB machine_temperature,AutoEncoder,0.9594,0.1949
+NAB machine_temperature,AutoEncoder,0.9577,0.1964
+NAB machine_temperature,AutoEncoder,0.9555,0.1978
+NAB machine_temperature,AutoEncoder,0.9541,0.1994
+NAB machine_temperature,AutoEncoder,0.9506,0.2006
+NAB machine_temperature,AutoEncoder,0.9497,0.2023
+NAB machine_temperature,AutoEncoder,0.9475,0.2039
+NAB machine_temperature,AutoEncoder,0.9458,0.2055
+NAB machine_temperature,AutoEncoder,0.9436,0.2071
+NAB machine_temperature,AutoEncoder,0.9396,0.2083
+NAB machine_temperature,AutoEncoder,0.9378,0.21
+NAB machine_temperature,AutoEncoder,0.9352,0.2116
+NAB machine_temperature,AutoEncoder,0.933,0.2133
+NAB machine_temperature,AutoEncoder,0.9303,0.2149
+NAB machine_temperature,AutoEncoder,0.9277,0.2166
+NAB machine_temperature,AutoEncoder,0.9264,0.2186
+NAB machine_temperature,AutoEncoder,0.9237,0.2203
+NAB machine_temperature,AutoEncoder,0.9206,0.222
+NAB machine_temperature,AutoEncoder,0.9167,0.2235
+NAB machine_temperature,AutoEncoder,0.9153,0.2257
+NAB machine_temperature,AutoEncoder,0.9118,0.2274
+NAB machine_temperature,AutoEncoder,0.9096,0.2295
+NAB machine_temperature,AutoEncoder,0.907,0.2314
+NAB machine_temperature,AutoEncoder,0.9043,0.2335
+NAB machine_temperature,AutoEncoder,0.9017,0.2356
+NAB machine_temperature,AutoEncoder,0.9008,0.2382
+NAB machine_temperature,AutoEncoder,0.9004,0.241
+NAB machine_temperature,AutoEncoder,0.8977,0.2432
+NAB machine_temperature,AutoEncoder,0.8951,0.2456
+NAB machine_temperature,AutoEncoder,0.8942,0.2484
+NAB machine_temperature,AutoEncoder,0.8915,0.2509
+NAB machine_temperature,AutoEncoder,0.8889,0.2534
+NAB machine_temperature,AutoEncoder,0.888,0.2564
+NAB machine_temperature,AutoEncoder,0.8858,0.2593
+NAB machine_temperature,AutoEncoder,0.884,0.2622
+NAB machine_temperature,AutoEncoder,0.8814,0.265
+NAB machine_temperature,AutoEncoder,0.8783,0.2678
+NAB machine_temperature,AutoEncoder,0.8761,0.2709
+NAB machine_temperature,AutoEncoder,0.8721,0.2735
+NAB machine_temperature,AutoEncoder,0.8699,0.2768
+NAB machine_temperature,AutoEncoder,0.8668,0.2798
+NAB machine_temperature,AutoEncoder,0.8655,0.2835
+NAB machine_temperature,AutoEncoder,0.8633,0.2871
+NAB machine_temperature,AutoEncoder,0.8611,0.2908
+NAB machine_temperature,AutoEncoder,0.8593,0.2947
+NAB machine_temperature,AutoEncoder,0.8576,0.2988
+NAB machine_temperature,AutoEncoder,0.8541,0.3024
+NAB machine_temperature,AutoEncoder,0.851,0.3062
+NAB machine_temperature,AutoEncoder,0.8479,0.3102
+NAB machine_temperature,AutoEncoder,0.847,0.3151
+NAB machine_temperature,AutoEncoder,0.8435,0.3192
+NAB machine_temperature,AutoEncoder,0.843,0.3246
+NAB machine_temperature,AutoEncoder,0.8417,0.3299
+NAB machine_temperature,AutoEncoder,0.8369,0.334
+NAB machine_temperature,AutoEncoder,0.8347,0.3392
+NAB machine_temperature,AutoEncoder,0.8311,0.3442
+NAB machine_temperature,AutoEncoder,0.8276,0.3493
+NAB machine_temperature,AutoEncoder,0.8258,0.3554
+NAB machine_temperature,AutoEncoder,0.8232,0.3614
+NAB machine_temperature,AutoEncoder,0.8219,0.3682
+NAB machine_temperature,AutoEncoder,0.8201,0.375
+NAB machine_temperature,AutoEncoder,0.8166,0.3814
+NAB machine_temperature,AutoEncoder,0.8148,0.3888
+NAB machine_temperature,AutoEncoder,0.8108,0.3955
+NAB machine_temperature,AutoEncoder,0.8091,0.4037
+NAB machine_temperature,AutoEncoder,0.806,0.4114
+NAB machine_temperature,AutoEncoder,0.8025,0.4194
+NAB machine_temperature,AutoEncoder,0.7994,0.428
+NAB machine_temperature,AutoEncoder,0.7959,0.4367
+NAB machine_temperature,AutoEncoder,0.7941,0.4469
+NAB machine_temperature,AutoEncoder,0.7901,0.4563
+NAB machine_temperature,AutoEncoder,0.7835,0.4648
+NAB machine_temperature,AutoEncoder,0.7791,0.475
+NAB machine_temperature,AutoEncoder,0.7738,0.4852
+NAB machine_temperature,AutoEncoder,0.7654,0.4942
+NAB machine_temperature,AutoEncoder,0.7549,0.5021
+NAB machine_temperature,AutoEncoder,0.7469,0.5122
+NAB machine_temperature,AutoEncoder,0.7363,0.5214
+NAB machine_temperature,AutoEncoder,0.7253,0.5306
+NAB machine_temperature,AutoEncoder,0.713,0.5395
+NAB machine_temperature,AutoEncoder,0.7019,0.5503
+NAB machine_temperature,AutoEncoder,0.6878,0.5591
+NAB machine_temperature,AutoEncoder,0.6733,0.5683
+NAB machine_temperature,AutoEncoder,0.6543,0.5745
+NAB machine_temperature,AutoEncoder,0.6349,0.5806
+NAB machine_temperature,AutoEncoder,0.6111,0.5831
+NAB machine_temperature,AutoEncoder,0.5882,0.5869
+NAB machine_temperature,AutoEncoder,0.5714,0.5972
+NAB machine_temperature,AutoEncoder,0.5547,0.6086
+NAB machine_temperature,AutoEncoder,0.5335,0.6161
+NAB machine_temperature,AutoEncoder,0.5128,0.6253
+NAB machine_temperature,AutoEncoder,0.4824,0.6227
+NAB machine_temperature,AutoEncoder,0.4471,0.6131
+NAB machine_temperature,AutoEncoder,0.4101,0.6
+NAB machine_temperature,AutoEncoder,0.3757,0.5888
+NAB machine_temperature,AutoEncoder,0.3554,0.5997
+NAB machine_temperature,AutoEncoder,0.3302,0.604
+NAB machine_temperature,AutoEncoder,0.3047,0.6077
+NAB machine_temperature,AutoEncoder,0.2848,0.6248
+NAB machine_temperature,AutoEncoder,0.272,0.6634
+NAB machine_temperature,AutoEncoder,0.2438,0.6687
+NAB machine_temperature,AutoEncoder,0.2072,0.6492
+NAB machine_temperature,AutoEncoder,0.168,0.6145
+NAB machine_temperature,AutoEncoder,0.127,0.5571
+NAB machine_temperature,AutoEncoder,0.086,0.471
+NAB machine_temperature,AutoEncoder,0.0419,0.3065
+NAB machine_temperature,AutoEncoder,0.0238,0.2609
+NAB machine_temperature,AutoEncoder,0.0185,0.4038
+NAB machine_temperature,AutoEncoder,0.0,1.0
+NAB machine_temperature,Control chart (EWMA),1.0,0.1103
+NAB machine_temperature,Control chart (EWMA),0.9978,0.1106
+NAB machine_temperature,Control chart (EWMA),0.9978,0.1111
+NAB machine_temperature,Control chart (EWMA),0.9978,0.1117
+NAB machine_temperature,Control chart (EWMA),0.9974,0.1122
+NAB machine_temperature,Control chart (EWMA),0.9974,0.1128
+NAB machine_temperature,Control chart (EWMA),0.9974,0.1134
+NAB machine_temperature,Control chart (EWMA),0.9969,0.1139
+NAB machine_temperature,Control chart (EWMA),0.996,0.1144
+NAB machine_temperature,Control chart (EWMA),0.9951,0.1149
+NAB machine_temperature,Control chart (EWMA),0.9943,0.1154
+NAB machine_temperature,Control chart (EWMA),0.9943,0.116
+NAB machine_temperature,Control chart (EWMA),0.9943,0.1167
+NAB machine_temperature,Control chart (EWMA),0.9938,0.1172
+NAB machine_temperature,Control chart (EWMA),0.9938,0.1179
+NAB machine_temperature,Control chart (EWMA),0.9934,0.1185
+NAB machine_temperature,Control chart (EWMA),0.9929,0.1191
+NAB machine_temperature,Control chart (EWMA),0.9916,0.1196
+NAB machine_temperature,Control chart (EWMA),0.9912,0.1202
+NAB machine_temperature,Control chart (EWMA),0.9907,0.1208
+NAB machine_temperature,Control chart (EWMA),0.9903,0.1214
+NAB machine_temperature,Control chart (EWMA),0.9899,0.122
+NAB machine_temperature,Control chart (EWMA),0.9894,0.1226
+NAB machine_temperature,Control chart (EWMA),0.989,0.1233
+NAB machine_temperature,Control chart (EWMA),0.9885,0.1239
+NAB machine_temperature,Control chart (EWMA),0.9877,0.1245
+NAB machine_temperature,Control chart (EWMA),0.9868,0.1252
+NAB machine_temperature,Control chart (EWMA),0.9868,0.1259
+NAB machine_temperature,Control chart (EWMA),0.9854,0.1264
+NAB machine_temperature,Control chart (EWMA),0.9846,0.1271
+NAB machine_temperature,Control chart (EWMA),0.9841,0.1278
+NAB machine_temperature,Control chart (EWMA),0.9837,0.1285
+NAB machine_temperature,Control chart (EWMA),0.9832,0.1292
+NAB machine_temperature,Control chart (EWMA),0.9828,0.1299
+NAB machine_temperature,Control chart (EWMA),0.9828,0.1307
+NAB machine_temperature,Control chart (EWMA),0.9815,0.1313
+NAB machine_temperature,Control chart (EWMA),0.9806,0.132
+NAB machine_temperature,Control chart (EWMA),0.9802,0.1328
+NAB machine_temperature,Control chart (EWMA),0.9802,0.1336
+NAB machine_temperature,Control chart (EWMA),0.9797,0.1344
+NAB machine_temperature,Control chart (EWMA),0.9788,0.1351
+NAB machine_temperature,Control chart (EWMA),0.9788,0.1359
+NAB machine_temperature,Control chart (EWMA),0.9788,0.1368
+NAB machine_temperature,Control chart (EWMA),0.978,0.1376
+NAB machine_temperature,Control chart (EWMA),0.978,0.1384
+NAB machine_temperature,Control chart (EWMA),0.9775,0.1393
+NAB machine_temperature,Control chart (EWMA),0.9766,0.1401
+NAB machine_temperature,Control chart (EWMA),0.9757,0.1409
+NAB machine_temperature,Control chart (EWMA),0.9753,0.1417
+NAB machine_temperature,Control chart (EWMA),0.9753,0.1427
+NAB machine_temperature,Control chart (EWMA),0.9749,0.1436
+NAB machine_temperature,Control chart (EWMA),0.9735,0.1443
+NAB machine_temperature,Control chart (EWMA),0.9731,0.1452
+NAB machine_temperature,Control chart (EWMA),0.9713,0.146
+NAB machine_temperature,Control chart (EWMA),0.9705,0.1469
+NAB machine_temperature,Control chart (EWMA),0.9696,0.1477
+NAB machine_temperature,Control chart (EWMA),0.9691,0.1487
+NAB machine_temperature,Control chart (EWMA),0.9691,0.1497
+NAB machine_temperature,Control chart (EWMA),0.9678,0.1506
+NAB machine_temperature,Control chart (EWMA),0.9674,0.1516
+NAB machine_temperature,Control chart (EWMA),0.9656,0.1524
+NAB machine_temperature,Control chart (EWMA),0.9643,0.1533
+NAB machine_temperature,Control chart (EWMA),0.9638,0.1544
+NAB machine_temperature,Control chart (EWMA),0.9621,0.1552
+NAB machine_temperature,Control chart (EWMA),0.9612,0.1562
+NAB machine_temperature,Control chart (EWMA),0.9603,0.1572
+NAB machine_temperature,Control chart (EWMA),0.9599,0.1584
+NAB machine_temperature,Control chart (EWMA),0.9586,0.1593
+NAB machine_temperature,Control chart (EWMA),0.9568,0.1603
+NAB machine_temperature,Control chart (EWMA),0.9555,0.1613
+NAB machine_temperature,Control chart (EWMA),0.9546,0.1624
+NAB machine_temperature,Control chart (EWMA),0.9524,0.1633
+NAB machine_temperature,Control chart (EWMA),0.9497,0.1641
+NAB machine_temperature,Control chart (EWMA),0.9462,0.1648
+NAB machine_temperature,Control chart (EWMA),0.9444,0.1658
+NAB machine_temperature,Control chart (EWMA),0.9409,0.1665
+NAB machine_temperature,Control chart (EWMA),0.9361,0.167
+NAB machine_temperature,Control chart (EWMA),0.9352,0.1682
+NAB machine_temperature,Control chart (EWMA),0.9347,0.1695
+NAB machine_temperature,Control chart (EWMA),0.9317,0.1703
+NAB machine_temperature,Control chart (EWMA),0.9299,0.1714
+NAB machine_temperature,Control chart (EWMA),0.9264,0.1723
+NAB machine_temperature,Control chart (EWMA),0.9255,0.1736
+NAB machine_temperature,Control chart (EWMA),0.9228,0.1746
+NAB machine_temperature,Control chart (EWMA),0.9215,0.1758
+NAB machine_temperature,Control chart (EWMA),0.9211,0.1773
+NAB machine_temperature,Control chart (EWMA),0.9202,0.1787
+NAB machine_temperature,Control chart (EWMA),0.918,0.1798
+NAB machine_temperature,Control chart (EWMA),0.9131,0.1805
+NAB machine_temperature,Control chart (EWMA),0.9127,0.1821
+NAB machine_temperature,Control chart (EWMA),0.9114,0.1835
+NAB machine_temperature,Control chart (EWMA),0.9096,0.1848
+NAB machine_temperature,Control chart (EWMA),0.9061,0.1858
+NAB machine_temperature,Control chart (EWMA),0.9026,0.1868
+NAB machine_temperature,Control chart (EWMA),0.9008,0.1882
+NAB machine_temperature,Control chart (EWMA),0.8986,0.1896
+NAB machine_temperature,Control chart (EWMA),0.8973,0.1911
+NAB machine_temperature,Control chart (EWMA),0.8959,0.1927
+NAB machine_temperature,Control chart (EWMA),0.8937,0.1942
+NAB machine_temperature,Control chart (EWMA),0.8907,0.1954
+NAB machine_temperature,Control chart (EWMA),0.888,0.1968
+NAB machine_temperature,Control chart (EWMA),0.8858,0.1983
+NAB machine_temperature,Control chart (EWMA),0.8836,0.1999
+NAB machine_temperature,Control chart (EWMA),0.8814,0.2015
+NAB machine_temperature,Control chart (EWMA),0.8792,0.2031
+NAB machine_temperature,Control chart (EWMA),0.8783,0.205
+NAB machine_temperature,Control chart (EWMA),0.8743,0.2063
+NAB machine_temperature,Control chart (EWMA),0.8726,0.2081
+NAB machine_temperature,Control chart (EWMA),0.869,0.2095
+NAB machine_temperature,Control chart (EWMA),0.8673,0.2114
+NAB machine_temperature,Control chart (EWMA),0.866,0.2135
+NAB machine_temperature,Control chart (EWMA),0.8646,0.2156
+NAB machine_temperature,Control chart (EWMA),0.8602,0.2169
+NAB machine_temperature,Control chart (EWMA),0.8585,0.219
+NAB machine_temperature,Control chart (EWMA),0.8545,0.2206
+NAB machine_temperature,Control chart (EWMA),0.8532,0.2228
+NAB machine_temperature,Control chart (EWMA),0.8514,0.2251
+NAB machine_temperature,Control chart (EWMA),0.8474,0.2268
+NAB machine_temperature,Control chart (EWMA),0.8444,0.2287
+NAB machine_temperature,Control chart (EWMA),0.8413,0.2307
+NAB machine_temperature,Control chart (EWMA),0.8377,0.2327
+NAB machine_temperature,Control chart (EWMA),0.8302,0.2335
+NAB machine_temperature,Control chart (EWMA),0.8276,0.2358
+NAB machine_temperature,Control chart (EWMA),0.8228,0.2375
+NAB machine_temperature,Control chart (EWMA),0.817,0.239
+NAB machine_temperature,Control chart (EWMA),0.8148,0.2416
+NAB machine_temperature,Control chart (EWMA),0.8122,0.2441
+NAB machine_temperature,Control chart (EWMA),0.8078,0.2461
+NAB machine_temperature,Control chart (EWMA),0.8042,0.2485
+NAB machine_temperature,Control chart (EWMA),0.8025,0.2515
+NAB machine_temperature,Control chart (EWMA),0.7989,0.2541
+NAB machine_temperature,Control chart (EWMA),0.7945,0.2564
+NAB machine_temperature,Control chart (EWMA),0.791,0.259
+NAB machine_temperature,Control chart (EWMA),0.7879,0.2619
+NAB machine_temperature,Control chart (EWMA),0.7853,0.2651
+NAB machine_temperature,Control chart (EWMA),0.78,0.2674
+NAB machine_temperature,Control chart (EWMA),0.776,0.2703
+NAB machine_temperature,Control chart (EWMA),0.7738,0.2738
+NAB machine_temperature,Control chart (EWMA),0.7694,0.2767
+NAB machine_temperature,Control chart (EWMA),0.7588,0.2775
+NAB machine_temperature,Control chart (EWMA),0.75,0.2789
+NAB machine_temperature,Control chart (EWMA),0.7474,0.2827
+NAB machine_temperature,Control chart (EWMA),0.7421,0.2856
+NAB machine_temperature,Control chart (EWMA),0.7385,0.2893
+NAB machine_temperature,Control chart (EWMA),0.7341,0.2929
+NAB machine_temperature,Control chart (EWMA),0.7302,0.2967
+NAB machine_temperature,Control chart (EWMA),0.7262,0.3006
+NAB machine_temperature,Control chart (EWMA),0.7213,0.3044
+NAB machine_temperature,Control chart (EWMA),0.7147,0.3075
+NAB machine_temperature,Control chart (EWMA),0.7072,0.3103
+NAB machine_temperature,Control chart (EWMA),0.7006,0.3137
+NAB machine_temperature,Control chart (EWMA),0.6949,0.3176
+NAB machine_temperature,Control chart (EWMA),0.6887,0.3215
+NAB machine_temperature,Control chart (EWMA),0.6781,0.3234
+NAB machine_temperature,Control chart (EWMA),0.6711,0.3272
+NAB machine_temperature,Control chart (EWMA),0.6636,0.3309
+NAB machine_temperature,Control chart (EWMA),0.6543,0.3339
+NAB machine_temperature,Control chart (EWMA),0.6442,0.3365
+NAB machine_temperature,Control chart (EWMA),0.6345,0.3395
+NAB machine_temperature,Control chart (EWMA),0.623,0.3417
+NAB machine_temperature,Control chart (EWMA),0.6085,0.3423
+NAB machine_temperature,Control chart (EWMA),0.5983,0.3455
+NAB machine_temperature,Control chart (EWMA),0.5917,0.3508
+NAB machine_temperature,Control chart (EWMA),0.5825,0.3549
+NAB machine_temperature,Control chart (EWMA),0.575,0.3604
+NAB machine_temperature,Control chart (EWMA),0.567,0.3659
+NAB machine_temperature,Control chart (EWMA),0.5591,0.3717
+NAB machine_temperature,Control chart (EWMA),0.5534,0.3794
+NAB machine_temperature,Control chart (EWMA),0.5445,0.3853
+NAB machine_temperature,Control chart (EWMA),0.5344,0.3908
+NAB machine_temperature,Control chart (EWMA),0.5238,0.3963
+NAB machine_temperature,Control chart (EWMA),0.5154,0.4038
+NAB machine_temperature,Control chart (EWMA),0.5009,0.407
+NAB machine_temperature,Control chart (EWMA),0.4846,0.4089
+NAB machine_temperature,Control chart (EWMA),0.4718,0.4139
+NAB machine_temperature,Control chart (EWMA),0.4563,0.4172
+NAB machine_temperature,Control chart (EWMA),0.4396,0.4193
+NAB machine_temperature,Control chart (EWMA),0.4211,0.42
+NAB machine_temperature,Control chart (EWMA),0.4048,0.4228
+NAB machine_temperature,Control chart (EWMA),0.3849,0.4221
+NAB machine_temperature,Control chart (EWMA),0.3638,0.4201
+NAB machine_temperature,Control chart (EWMA),0.3364,0.41
+NAB machine_temperature,Control chart (EWMA),0.3056,0.3942
+NAB machine_temperature,Control chart (EWMA),0.2831,0.3881
+NAB machine_temperature,Control chart (EWMA),0.261,0.3817
+NAB machine_temperature,Control chart (EWMA),0.2456,0.3847
+NAB machine_temperature,Control chart (EWMA),0.2288,0.3862
+NAB machine_temperature,Control chart (EWMA),0.2059,0.3763
+NAB machine_temperature,Control chart (EWMA),0.1834,0.3659
+NAB machine_temperature,Control chart (EWMA),0.1548,0.3395
+NAB machine_temperature,Control chart (EWMA),0.1168,0.2846
+NAB machine_temperature,Control chart (EWMA),0.0869,0.2382
+NAB machine_temperature,Control chart (EWMA),0.0679,0.2127
+NAB machine_temperature,Control chart (EWMA),0.0569,0.2077
+NAB machine_temperature,Control chart (EWMA),0.0538,0.236
+NAB machine_temperature,Control chart (EWMA),0.0454,0.2488
+NAB machine_temperature,Control chart (EWMA),0.0379,0.2765
+NAB machine_temperature,Control chart (EWMA),0.0282,0.3092
+NAB machine_temperature,Control chart (EWMA),0.0181,0.3942
+NAB machine_temperature,Control chart (EWMA),0.0,1.0
+SKAB valve1,Isolation Forest,1.0,0.3386
+SKAB valve1,Isolation Forest,0.9974,0.3383
+SKAB valve1,Isolation Forest,0.993,0.3382
+SKAB valve1,Isolation Forest,0.9895,0.3378
+SKAB valve1,Isolation Forest,0.9877,0.3385
+SKAB valve1,Isolation Forest,0.986,0.3388
+SKAB valve1,Isolation Forest,0.9833,0.3389
+SKAB valve1,Isolation Forest,0.9789,0.3388
+SKAB valve1,Isolation Forest,0.9763,0.3388
+SKAB valve1,Isolation Forest,0.9684,0.339
+SKAB valve1,Isolation Forest,0.9605,0.339
+SKAB valve1,Isolation Forest,0.9518,0.3389
+SKAB valve1,Isolation Forest,0.9482,0.3395
+SKAB valve1,Isolation Forest,0.9421,0.3393
+SKAB valve1,Isolation Forest,0.9377,0.3387
+SKAB valve1,Isolation Forest,0.9325,0.3388
+SKAB valve1,Isolation Forest,0.9281,0.3391
+SKAB valve1,Isolation Forest,0.9228,0.339
+SKAB valve1,Isolation Forest,0.9175,0.3394
+SKAB valve1,Isolation Forest,0.9149,0.3402
+SKAB valve1,Isolation Forest,0.9105,0.3404
+SKAB valve1,Isolation Forest,0.9079,0.3411
+SKAB valve1,Isolation Forest,0.9044,0.3417
+SKAB valve1,Isolation Forest,0.8965,0.3411
+SKAB valve1,Isolation Forest,0.8947,0.3431
+SKAB valve1,Isolation Forest,0.8886,0.343
+SKAB valve1,Isolation Forest,0.8798,0.3421
+SKAB valve1,Isolation Forest,0.8754,0.3426
+SKAB valve1,Isolation Forest,0.8737,0.3433
+SKAB valve1,Isolation Forest,0.8684,0.3443
+SKAB valve1,Isolation Forest,0.8658,0.3447
+SKAB valve1,Isolation Forest,0.8579,0.3441
+SKAB valve1,Isolation Forest,0.8544,0.3443
+SKAB valve1,Isolation Forest,0.85,0.3448
+SKAB valve1,Isolation Forest,0.8482,0.3452
+SKAB valve1,Isolation Forest,0.8447,0.3454
+SKAB valve1,Isolation Forest,0.8421,0.3461
+SKAB valve1,Isolation Forest,0.8368,0.3454
+SKAB valve1,Isolation Forest,0.8316,0.345
+SKAB valve1,Isolation Forest,0.8254,0.3447
+SKAB valve1,Isolation Forest,0.8211,0.3448
+SKAB valve1,Isolation Forest,0.8114,0.3445
+SKAB valve1,Isolation Forest,0.8061,0.3447
+SKAB valve1,Isolation Forest,0.8044,0.3456
+SKAB valve1,Isolation Forest,0.7991,0.3448
+SKAB valve1,Isolation Forest,0.793,0.3444
+SKAB valve1,Isolation Forest,0.7912,0.3449
+SKAB valve1,Isolation Forest,0.786,0.3441
+SKAB valve1,Isolation Forest,0.7833,0.3447
+SKAB valve1,Isolation Forest,0.7807,0.3452
+SKAB valve1,Isolation Forest,0.7772,0.3447
+SKAB valve1,Isolation Forest,0.7728,0.3441
+SKAB valve1,Isolation Forest,0.7675,0.3431
+SKAB valve1,Isolation Forest,0.7623,0.3442
+SKAB valve1,Isolation Forest,0.7544,0.3437
+SKAB valve1,Isolation Forest,0.7482,0.346
+SKAB valve1,Isolation Forest,0.736,0.3468
+SKAB valve1,Isolation Forest,0.7333,0.3476
+SKAB valve1,Isolation Forest,0.7281,0.3474
+SKAB valve1,Isolation Forest,0.7228,0.3469
+SKAB valve1,Isolation Forest,0.7184,0.3473
+SKAB valve1,Isolation Forest,0.7167,0.3477
+SKAB valve1,Isolation Forest,0.714,0.3476
+SKAB valve1,Isolation Forest,0.7105,0.3484
+SKAB valve1,Isolation Forest,0.707,0.3483
+SKAB valve1,Isolation Forest,0.6947,0.346
+SKAB valve1,Isolation Forest,0.693,0.3462
+SKAB valve1,Isolation Forest,0.6886,0.3463
+SKAB valve1,Isolation Forest,0.6781,0.3448
+SKAB valve1,Isolation Forest,0.6702,0.344
+SKAB valve1,Isolation Forest,0.6684,0.3443
+SKAB valve1,Isolation Forest,0.6632,0.3447
+SKAB valve1,Isolation Forest,0.6596,0.3445
+SKAB valve1,Isolation Forest,0.6588,0.345
+SKAB valve1,Isolation Forest,0.657,0.3461
+SKAB valve1,Isolation Forest,0.6474,0.3463
+SKAB valve1,Isolation Forest,0.6342,0.3464
+SKAB valve1,Isolation Forest,0.6316,0.3463
+SKAB valve1,Isolation Forest,0.6254,0.3466
+SKAB valve1,Isolation Forest,0.6228,0.347
+SKAB valve1,Isolation Forest,0.6175,0.3471
+SKAB valve1,Isolation Forest,0.5789,0.3432
+SKAB valve1,Isolation Forest,0.5667,0.3429
+SKAB valve1,Isolation Forest,0.5588,0.3436
+SKAB valve1,Isolation Forest,0.5579,0.3445
+SKAB valve1,Isolation Forest,0.5526,0.3433
+SKAB valve1,Isolation Forest,0.5509,0.3435
+SKAB valve1,Isolation Forest,0.5491,0.3453
+SKAB valve1,Isolation Forest,0.543,0.345
+SKAB valve1,Isolation Forest,0.5412,0.347
+SKAB valve1,Isolation Forest,0.5368,0.3465
+SKAB valve1,Isolation Forest,0.5325,0.3467
+SKAB valve1,Isolation Forest,0.5298,0.3467
+SKAB valve1,Isolation Forest,0.5254,0.3464
+SKAB valve1,Isolation Forest,0.5219,0.3463
+SKAB valve1,Isolation Forest,0.5193,0.3478
+SKAB valve1,Isolation Forest,0.5105,0.3464
+SKAB valve1,Isolation Forest,0.5079,0.3461
+SKAB valve1,Isolation Forest,0.5018,0.3454
+SKAB valve1,Isolation Forest,0.4991,0.3451
+SKAB valve1,Isolation Forest,0.4956,0.3451
+SKAB valve1,Isolation Forest,0.4833,0.3439
+SKAB valve1,Isolation Forest,0.4781,0.3428
+SKAB valve1,Isolation Forest,0.4596,0.3459
+SKAB valve1,Isolation Forest,0.4412,0.3455
+SKAB valve1,Isolation Forest,0.4351,0.3442
+SKAB valve1,Isolation Forest,0.4316,0.3448
+SKAB valve1,Isolation Forest,0.4272,0.3451
+SKAB valve1,Isolation Forest,0.4237,0.3452
+SKAB valve1,Isolation Forest,0.4158,0.3447
+SKAB valve1,Isolation Forest,0.4105,0.3426
+SKAB valve1,Isolation Forest,0.4061,0.3427
+SKAB valve1,Isolation Forest,0.4035,0.3428
+SKAB valve1,Isolation Forest,0.4035,0.3451
+SKAB valve1,Isolation Forest,0.4018,0.3457
+SKAB valve1,Isolation Forest,0.3965,0.345
+SKAB valve1,Isolation Forest,0.393,0.3457
+SKAB valve1,Isolation Forest,0.3912,0.3463
+SKAB valve1,Isolation Forest,0.3886,0.3466
+SKAB valve1,Isolation Forest,0.3868,0.3486
+SKAB valve1,Isolation Forest,0.3833,0.3488
+SKAB valve1,Isolation Forest,0.3798,0.3486
+SKAB valve1,Isolation Forest,0.3702,0.3445
+SKAB valve1,Isolation Forest,0.3675,0.3446
+SKAB valve1,Isolation Forest,0.3623,0.3433
+SKAB valve1,Isolation Forest,0.3544,0.3432
+SKAB valve1,Isolation Forest,0.3526,0.3487
+SKAB valve1,Isolation Forest,0.35,0.3494
+SKAB valve1,Isolation Forest,0.343,0.3482
+SKAB valve1,Isolation Forest,0.3386,0.35
+SKAB valve1,Isolation Forest,0.3333,0.3509
+SKAB valve1,Isolation Forest,0.3298,0.3507
+SKAB valve1,Isolation Forest,0.3272,0.3549
+SKAB valve1,Isolation Forest,0.3228,0.3562
+SKAB valve1,Isolation Forest,0.3193,0.3569
+SKAB valve1,Isolation Forest,0.3158,0.3579
+SKAB valve1,Isolation Forest,0.3088,0.3581
+SKAB valve1,Isolation Forest,0.2921,0.3531
+SKAB valve1,Isolation Forest,0.2895,0.3556
+SKAB valve1,Isolation Forest,0.286,0.3543
+SKAB valve1,Isolation Forest,0.2825,0.3558
+SKAB valve1,Isolation Forest,0.2737,0.3545
+SKAB valve1,Isolation Forest,0.2711,0.356
+SKAB valve1,Isolation Forest,0.2667,0.3564
+SKAB valve1,Isolation Forest,0.2667,0.3615
+SKAB valve1,Isolation Forest,0.2553,0.3536
+SKAB valve1,Isolation Forest,0.2368,0.3506
+SKAB valve1,Isolation Forest,0.2316,0.3478
+SKAB valve1,Isolation Forest,0.2228,0.347
+SKAB valve1,Isolation Forest,0.2193,0.3444
+SKAB valve1,Isolation Forest,0.2079,0.3395
+SKAB valve1,Isolation Forest,0.2061,0.3401
+SKAB valve1,Isolation Forest,0.2035,0.3402
+SKAB valve1,Isolation Forest,0.1947,0.3384
+SKAB valve1,Isolation Forest,0.1842,0.3349
+SKAB valve1,Isolation Forest,0.1825,0.336
+SKAB valve1,Isolation Forest,0.1693,0.3294
+SKAB valve1,Isolation Forest,0.1675,0.3351
+SKAB valve1,Isolation Forest,0.1614,0.3327
+SKAB valve1,Isolation Forest,0.1561,0.3371
+SKAB valve1,Isolation Forest,0.1526,0.3353
+SKAB valve1,Isolation Forest,0.15,0.3386
+SKAB valve1,Isolation Forest,0.1465,0.3367
+SKAB valve1,Isolation Forest,0.1386,0.3319
+SKAB valve1,Isolation Forest,0.1325,0.3283
+SKAB valve1,Isolation Forest,0.1254,0.325
+SKAB valve1,Isolation Forest,0.1219,0.3286
+SKAB valve1,Isolation Forest,0.1211,0.3333
+SKAB valve1,Isolation Forest,0.1193,0.3392
+SKAB valve1,Isolation Forest,0.114,0.3377
+SKAB valve1,Isolation Forest,0.1088,0.3351
+SKAB valve1,Isolation Forest,0.1009,0.3314
+SKAB valve1,Isolation Forest,0.0991,0.3333
+SKAB valve1,Isolation Forest,0.0947,0.3293
+SKAB valve1,Isolation Forest,0.0833,0.3199
+SKAB valve1,Isolation Forest,0.0798,0.3204
+SKAB valve1,Isolation Forest,0.0737,0.332
+SKAB valve1,Isolation Forest,0.0684,0.3237
+SKAB valve1,Isolation Forest,0.0667,0.3276
+SKAB valve1,Isolation Forest,0.0623,0.3184
+SKAB valve1,Isolation Forest,0.0588,0.3252
+SKAB valve1,Isolation Forest,0.0579,0.3333
+SKAB valve1,Isolation Forest,0.0544,0.3298
+SKAB valve1,Isolation Forest,0.0535,0.3352
+SKAB valve1,Isolation Forest,0.05,0.3276
+SKAB valve1,Isolation Forest,0.0491,0.3333
+SKAB valve1,Isolation Forest,0.0474,0.3439
+SKAB valve1,Isolation Forest,0.0465,0.3813
+SKAB valve1,Isolation Forest,0.0421,0.3664
+SKAB valve1,Isolation Forest,0.0404,0.3833
+SKAB valve1,Isolation Forest,0.0377,0.3839
+SKAB valve1,Isolation Forest,0.0333,0.3838
+SKAB valve1,Isolation Forest,0.0289,0.3976
+SKAB valve1,Isolation Forest,0.0237,0.4154
+SKAB valve1,Isolation Forest,0.0193,0.3929
+SKAB valve1,Isolation Forest,0.0123,0.4
+SKAB valve1,Isolation Forest,0.0105,0.4444
+SKAB valve1,Isolation Forest,0.0053,0.375
+SKAB valve1,Isolation Forest,0.0026,0.4286
+SKAB valve1,Isolation Forest,0.0,1.0
+SKAB valve1,One-Class SVM,1.0,0.3386
+SKAB valve1,One-Class SVM,0.0,1.0
+SKAB valve1,LOF,1.0,0.3386
+SKAB valve1,LOF,1.0,0.3402
+SKAB valve1,LOF,1.0,0.3419
+SKAB valve1,LOF,1.0,0.3437
+SKAB valve1,LOF,1.0,0.3455
+SKAB valve1,LOF,1.0,0.3472
+SKAB valve1,LOF,1.0,0.3491
+SKAB valve1,LOF,1.0,0.3509
+SKAB valve1,LOF,1.0,0.3527
+SKAB valve1,LOF,1.0,0.3546
+SKAB valve1,LOF,1.0,0.3565
+SKAB valve1,LOF,1.0,0.3584
+SKAB valve1,LOF,1.0,0.3603
+SKAB valve1,LOF,0.9991,0.3618
+SKAB valve1,LOF,0.9991,0.3638
+SKAB valve1,LOF,0.9991,0.3658
+SKAB valve1,LOF,0.9982,0.3675
+SKAB valve1,LOF,0.9982,0.3695
+SKAB valve1,LOF,0.9982,0.3715
+SKAB valve1,LOF,0.9982,0.3736
+SKAB valve1,LOF,0.9974,0.3754
+SKAB valve1,LOF,0.9965,0.3772
+SKAB valve1,LOF,0.9956,0.379
+SKAB valve1,LOF,0.9956,0.3811
+SKAB valve1,LOF,0.9956,0.3833
+SKAB valve1,LOF,0.9956,0.3854
+SKAB valve1,LOF,0.9956,0.3876
+SKAB valve1,LOF,0.9939,0.3892
+SKAB valve1,LOF,0.9921,0.3908
+SKAB valve1,LOF,0.9921,0.3931
+SKAB valve1,LOF,0.9912,0.3951
+SKAB valve1,LOF,0.9895,0.3968
+SKAB valve1,LOF,0.986,0.3977
+SKAB valve1,LOF,0.9816,0.3984
+SKAB valve1,LOF,0.9754,0.3983
+SKAB valve1,LOF,0.9728,0.3996
+SKAB valve1,LOF,0.9667,0.3996
+SKAB valve1,LOF,0.9614,0.3999
+SKAB valve1,LOF,0.9561,0.4
+SKAB valve1,LOF,0.9518,0.4007
+SKAB valve1,LOF,0.9491,0.4021
+SKAB valve1,LOF,0.943,0.402
+SKAB valve1,LOF,0.9368,0.402
+SKAB valve1,LOF,0.9316,0.4023
+SKAB valve1,LOF,0.9254,0.4022
+SKAB valve1,LOF,0.9202,0.4025
+SKAB valve1,LOF,0.9167,0.4036
+SKAB valve1,LOF,0.9132,0.4047
+SKAB valve1,LOF,0.9079,0.4051
+SKAB valve1,LOF,0.9061,0.407
+SKAB valve1,LOF,0.9009,0.4072
+SKAB valve1,LOF,0.8965,0.408
+SKAB valve1,LOF,0.8921,0.4088
+SKAB valve1,LOF,0.8833,0.4075
+SKAB valve1,LOF,0.8798,0.4087
+SKAB valve1,LOF,0.8746,0.4091
+SKAB valve1,LOF,0.8719,0.4107
+SKAB valve1,LOF,0.8632,0.4095
+SKAB valve1,LOF,0.857,0.4095
+SKAB valve1,LOF,0.8526,0.4103
+SKAB valve1,LOF,0.8456,0.4099
+SKAB valve1,LOF,0.8404,0.4103
+SKAB valve1,LOF,0.8325,0.4094
+SKAB valve1,LOF,0.8281,0.4101
+SKAB valve1,LOF,0.8202,0.4092
+SKAB valve1,LOF,0.8175,0.4109
+SKAB valve1,LOF,0.8114,0.4109
+SKAB valve1,LOF,0.807,0.4118
+SKAB valve1,LOF,0.8,0.4114
+SKAB valve1,LOF,0.7947,0.4118
+SKAB valve1,LOF,0.7904,0.4127
+SKAB valve1,LOF,0.786,0.4137
+SKAB valve1,LOF,0.7789,0.4132
+SKAB valve1,LOF,0.7719,0.4128
+SKAB valve1,LOF,0.7649,0.4123
+SKAB valve1,LOF,0.7623,0.414
+SKAB valve1,LOF,0.7553,0.4135
+SKAB valve1,LOF,0.7456,0.4116
+SKAB valve1,LOF,0.7412,0.4126
+SKAB valve1,LOF,0.7342,0.4121
+SKAB valve1,LOF,0.7307,0.4136
+SKAB valve1,LOF,0.7246,0.4136
+SKAB valve1,LOF,0.7193,0.4141
+SKAB valve1,LOF,0.7149,0.4152
+SKAB valve1,LOF,0.7088,0.4152
+SKAB valve1,LOF,0.6982,0.4126
+SKAB valve1,LOF,0.6895,0.4111
+SKAB valve1,LOF,0.6833,0.4111
+SKAB valve1,LOF,0.6763,0.4103
+SKAB valve1,LOF,0.6675,0.4087
+SKAB valve1,LOF,0.6614,0.4087
+SKAB valve1,LOF,0.6544,0.4081
+SKAB valve1,LOF,0.6509,0.4097
+SKAB valve1,LOF,0.6456,0.4103
+SKAB valve1,LOF,0.6395,0.4102
+SKAB valve1,LOF,0.6333,0.4102
+SKAB valve1,LOF,0.6307,0.4125
+SKAB valve1,LOF,0.6246,0.4125
+SKAB valve1,LOF,0.6219,0.4149
+SKAB valve1,LOF,0.6167,0.4155
+SKAB valve1,LOF,0.6114,0.4159
+SKAB valve1,LOF,0.607,0.4171
+SKAB valve1,LOF,0.6009,0.4172
+SKAB valve1,LOF,0.5956,0.4178
+SKAB valve1,LOF,0.5912,0.4192
+SKAB valve1,LOF,0.5868,0.4205
+SKAB valve1,LOF,0.5833,0.4225
+SKAB valve1,LOF,0.5798,0.4245
+SKAB valve1,LOF,0.5754,0.426
+SKAB valve1,LOF,0.5693,0.4261
+SKAB valve1,LOF,0.5675,0.4296
+SKAB valve1,LOF,0.5623,0.4305
+SKAB valve1,LOF,0.557,0.4311
+SKAB valve1,LOF,0.5509,0.4313
+SKAB valve1,LOF,0.5447,0.4315
+SKAB valve1,LOF,0.5368,0.4304
+SKAB valve1,LOF,0.5316,0.4313
+SKAB valve1,LOF,0.5263,0.4323
+SKAB valve1,LOF,0.5202,0.4325
+SKAB valve1,LOF,0.5167,0.435
+SKAB valve1,LOF,0.5114,0.4361
+SKAB valve1,LOF,0.5053,0.4364
+SKAB valve1,LOF,0.4982,0.4359
+SKAB valve1,LOF,0.4939,0.4378
+SKAB valve1,LOF,0.4886,0.4389
+SKAB valve1,LOF,0.4833,0.4397
+SKAB valve1,LOF,0.4807,0.4434
+SKAB valve1,LOF,0.4754,0.4446
+SKAB valve1,LOF,0.4702,0.4459
+SKAB valve1,LOF,0.4632,0.4456
+SKAB valve1,LOF,0.4561,0.4452
+SKAB valve1,LOF,0.4465,0.4422
+SKAB valve1,LOF,0.4404,0.4427
+SKAB valve1,LOF,0.4386,0.4476
+SKAB valve1,LOF,0.4351,0.4509
+SKAB valve1,LOF,0.4333,0.4561
+SKAB valve1,LOF,0.4289,0.4587
+SKAB valve1,LOF,0.4228,0.459
+SKAB valve1,LOF,0.4211,0.4647
+SKAB valve1,LOF,0.4158,0.4665
+SKAB valve1,LOF,0.4096,0.4675
+SKAB valve1,LOF,0.4035,0.4684
+SKAB valve1,LOF,0.4009,0.4736
+SKAB valve1,LOF,0.3947,0.4747
+SKAB valve1,LOF,0.3886,0.4758
+SKAB valve1,LOF,0.3833,0.4781
+SKAB valve1,LOF,0.3798,0.4827
+SKAB valve1,LOF,0.3754,0.4864
+SKAB valve1,LOF,0.3693,0.4878
+SKAB valve1,LOF,0.3632,0.4894
+SKAB valve1,LOF,0.3553,0.488
+SKAB valve1,LOF,0.3482,0.4883
+SKAB valve1,LOF,0.3404,0.4874
+SKAB valve1,LOF,0.3333,0.4878
+SKAB valve1,LOF,0.3281,0.4908
+SKAB valve1,LOF,0.3237,0.4953
+SKAB valve1,LOF,0.3211,0.5027
+SKAB valve1,LOF,0.3149,0.5049
+SKAB valve1,LOF,0.3105,0.5101
+SKAB valve1,LOF,0.3026,0.5096
+SKAB valve1,LOF,0.3,0.5182
+SKAB valve1,LOF,0.2974,0.5272
+SKAB valve1,LOF,0.2904,0.5279
+SKAB valve1,LOF,0.2842,0.5311
+SKAB valve1,LOF,0.2816,0.5413
+SKAB valve1,LOF,0.2763,0.5469
+SKAB valve1,LOF,0.2728,0.5564
+SKAB valve1,LOF,0.2711,0.5701
+SKAB valve1,LOF,0.2667,0.579
+SKAB valve1,LOF,0.2649,0.5945
+SKAB valve1,LOF,0.2579,0.5988
+SKAB valve1,LOF,0.2544,0.6118
+SKAB valve1,LOF,0.2509,0.6258
+SKAB valve1,LOF,0.2465,0.6386
+SKAB valve1,LOF,0.2377,0.6407
+SKAB valve1,LOF,0.2342,0.656
+SKAB valve1,LOF,0.2316,0.6769
+SKAB valve1,LOF,0.2307,0.7051
+SKAB valve1,LOF,0.2228,0.7135
+SKAB valve1,LOF,0.2167,0.7286
+SKAB valve1,LOF,0.2105,0.7453
+SKAB valve1,LOF,0.2035,0.7607
+SKAB valve1,LOF,0.1982,0.7847
+SKAB valve1,LOF,0.1921,0.8081
+SKAB valve1,LOF,0.1842,0.8268
+SKAB valve1,LOF,0.1746,0.8397
+SKAB valve1,LOF,0.1632,0.8455
+SKAB valve1,LOF,0.1526,0.8529
+SKAB valve1,LOF,0.1404,0.8556
+SKAB valve1,LOF,0.1254,0.8412
+SKAB valve1,LOF,0.1132,0.8431
+SKAB valve1,LOF,0.1035,0.8676
+SKAB valve1,LOF,0.0921,0.8824
+SKAB valve1,LOF,0.0807,0.902
+SKAB valve1,LOF,0.0658,0.8824
+SKAB valve1,LOF,0.0518,0.8676
+SKAB valve1,LOF,0.0377,0.8431
+SKAB valve1,LOF,0.0237,0.7941
+SKAB valve1,LOF,0.0114,0.7647
+SKAB valve1,LOF,0.0,1.0
+SKAB valve1,AutoEncoder,1.0,0.3386
+SKAB valve1,AutoEncoder,1.0,0.3402
+SKAB valve1,AutoEncoder,1.0,0.3419
+SKAB valve1,AutoEncoder,1.0,0.3437
+SKAB valve1,AutoEncoder,1.0,0.3455
+SKAB valve1,AutoEncoder,1.0,0.3472
+SKAB valve1,AutoEncoder,1.0,0.3491
+SKAB valve1,AutoEncoder,1.0,0.3509
+SKAB valve1,AutoEncoder,1.0,0.3527
+SKAB valve1,AutoEncoder,1.0,0.3546
+SKAB valve1,AutoEncoder,1.0,0.3565
+SKAB valve1,AutoEncoder,1.0,0.3584
+SKAB valve1,AutoEncoder,1.0,0.3603
+SKAB valve1,AutoEncoder,1.0,0.3621
+SKAB valve1,AutoEncoder,0.9991,0.3638
+SKAB valve1,AutoEncoder,0.9991,0.3658
+SKAB valve1,AutoEncoder,0.9991,0.3678
+SKAB valve1,AutoEncoder,0.9991,0.3698
+SKAB valve1,AutoEncoder,0.9991,0.3719
+SKAB valve1,AutoEncoder,0.9982,0.3737
+SKAB valve1,AutoEncoder,0.9982,0.3757
+SKAB valve1,AutoEncoder,0.9974,0.3775
+SKAB valve1,AutoEncoder,0.9965,0.3793
+SKAB valve1,AutoEncoder,0.9965,0.3815
+SKAB valve1,AutoEncoder,0.9965,0.3837
+SKAB valve1,AutoEncoder,0.9965,0.3859
+SKAB valve1,AutoEncoder,0.9956,0.3876
+SKAB valve1,AutoEncoder,0.9956,0.3899
+SKAB valve1,AutoEncoder,0.9947,0.3918
+SKAB valve1,AutoEncoder,0.9947,0.3942
+SKAB valve1,AutoEncoder,0.9947,0.3965
+SKAB valve1,AutoEncoder,0.9921,0.3978
+SKAB valve1,AutoEncoder,0.9886,0.3988
+SKAB valve1,AutoEncoder,0.9825,0.3986
+SKAB valve1,AutoEncoder,0.9763,0.3985
+SKAB valve1,AutoEncoder,0.9693,0.3981
+SKAB valve1,AutoEncoder,0.9632,0.398
+SKAB valve1,AutoEncoder,0.9561,0.3975
+SKAB valve1,AutoEncoder,0.9491,0.3971
+SKAB valve1,AutoEncoder,0.9412,0.3962
+SKAB valve1,AutoEncoder,0.936,0.3965
+SKAB valve1,AutoEncoder,0.9316,0.3972
+SKAB valve1,AutoEncoder,0.9254,0.3971
+SKAB valve1,AutoEncoder,0.9193,0.397
+SKAB valve1,AutoEncoder,0.914,0.3973
+SKAB valve1,AutoEncoder,0.9096,0.3978
+SKAB valve1,AutoEncoder,0.9088,0.4
+SKAB valve1,AutoEncoder,0.9026,0.3999
+SKAB valve1,AutoEncoder,0.8956,0.3995
+SKAB valve1,AutoEncoder,0.8912,0.4002
+SKAB valve1,AutoEncoder,0.886,0.4005
+SKAB valve1,AutoEncoder,0.8789,0.4
+SKAB valve1,AutoEncoder,0.8763,0.4015
+SKAB valve1,AutoEncoder,0.8719,0.4023
+SKAB valve1,AutoEncoder,0.8658,0.4022
+SKAB valve1,AutoEncoder,0.8588,0.4017
+SKAB valve1,AutoEncoder,0.8544,0.4025
+SKAB valve1,AutoEncoder,0.8482,0.4026
+SKAB valve1,AutoEncoder,0.843,0.4028
+SKAB valve1,AutoEncoder,0.8351,0.4019
+SKAB valve1,AutoEncoder,0.8281,0.4014
+SKAB valve1,AutoEncoder,0.8211,0.4009
+SKAB valve1,AutoEncoder,0.8132,0.3999
+SKAB valve1,AutoEncoder,0.807,0.3998
+SKAB valve1,AutoEncoder,0.8035,0.4012
+SKAB valve1,AutoEncoder,0.7965,0.4005
+SKAB valve1,AutoEncoder,0.786,0.3982
+SKAB valve1,AutoEncoder,0.7772,0.3968
+SKAB valve1,AutoEncoder,0.7719,0.3971
+SKAB valve1,AutoEncoder,0.7649,0.3967
+SKAB valve1,AutoEncoder,0.757,0.3957
+SKAB valve1,AutoEncoder,0.7491,0.3945
+SKAB valve1,AutoEncoder,0.7412,0.3934
+SKAB valve1,AutoEncoder,0.7325,0.3918
+SKAB valve1,AutoEncoder,0.7237,0.3903
+SKAB valve1,AutoEncoder,0.7132,0.3877
+SKAB valve1,AutoEncoder,0.7053,0.3865
+SKAB valve1,AutoEncoder,0.6965,0.3849
+SKAB valve1,AutoEncoder,0.6895,0.384
+SKAB valve1,AutoEncoder,0.6798,0.3818
+SKAB valve1,AutoEncoder,0.6728,0.381
+SKAB valve1,AutoEncoder,0.6649,0.3798
+SKAB valve1,AutoEncoder,0.6579,0.379
+SKAB valve1,AutoEncoder,0.6518,0.3787
+SKAB valve1,AutoEncoder,0.6474,0.3792
+SKAB valve1,AutoEncoder,0.643,0.38
+SKAB valve1,AutoEncoder,0.6368,0.3797
+SKAB valve1,AutoEncoder,0.6307,0.3794
+SKAB valve1,AutoEncoder,0.6237,0.3786
+SKAB valve1,AutoEncoder,0.6202,0.3799
+SKAB valve1,AutoEncoder,0.6158,0.3805
+SKAB valve1,AutoEncoder,0.6079,0.3791
+SKAB valve1,AutoEncoder,0.6044,0.3805
+SKAB valve1,AutoEncoder,0.5991,0.3807
+SKAB valve1,AutoEncoder,0.5974,0.3832
+SKAB valve1,AutoEncoder,0.5912,0.383
+SKAB valve1,AutoEncoder,0.5877,0.3844
+SKAB valve1,AutoEncoder,0.5816,0.3841
+SKAB valve1,AutoEncoder,0.5754,0.3839
+SKAB valve1,AutoEncoder,0.5675,0.3824
+SKAB valve1,AutoEncoder,0.5649,0.3845
+SKAB valve1,AutoEncoder,0.5605,0.3854
+SKAB valve1,AutoEncoder,0.5544,0.3851
+SKAB valve1,AutoEncoder,0.5509,0.3865
+SKAB valve1,AutoEncoder,0.5482,0.3887
+SKAB valve1,AutoEncoder,0.543,0.3891
+SKAB valve1,AutoEncoder,0.5342,0.3872
+SKAB valve1,AutoEncoder,0.5289,0.3875
+SKAB valve1,AutoEncoder,0.5237,0.3879
+SKAB valve1,AutoEncoder,0.5202,0.3896
+SKAB valve1,AutoEncoder,0.5167,0.3914
+SKAB valve1,AutoEncoder,0.5132,0.3931
+SKAB valve1,AutoEncoder,0.5079,0.3936
+SKAB valve1,AutoEncoder,0.5053,0.3961
+SKAB valve1,AutoEncoder,0.5,0.3967
+SKAB valve1,AutoEncoder,0.5,0.4014
+SKAB valve1,AutoEncoder,0.4956,0.4024
+SKAB valve1,AutoEncoder,0.4895,0.4023
+SKAB valve1,AutoEncoder,0.4842,0.4029
+SKAB valve1,AutoEncoder,0.4798,0.4043
+SKAB valve1,AutoEncoder,0.4746,0.4049
+SKAB valve1,AutoEncoder,0.4702,0.4064
+SKAB valve1,AutoEncoder,0.4675,0.4091
+SKAB valve1,AutoEncoder,0.4649,0.4121
+SKAB valve1,AutoEncoder,0.4605,0.4137
+SKAB valve1,AutoEncoder,0.4553,0.4145
+SKAB valve1,AutoEncoder,0.45,0.4154
+SKAB valve1,AutoEncoder,0.4439,0.4154
+SKAB valve1,AutoEncoder,0.4439,0.4213
+SKAB valve1,AutoEncoder,0.443,0.4262
+SKAB valve1,AutoEncoder,0.436,0.4259
+SKAB valve1,AutoEncoder,0.4316,0.4278
+SKAB valve1,AutoEncoder,0.4272,0.4302
+SKAB valve1,AutoEncoder,0.4228,0.4323
+SKAB valve1,AutoEncoder,0.4184,0.4344
+SKAB valve1,AutoEncoder,0.4158,0.4381
+SKAB valve1,AutoEncoder,0.414,0.4432
+SKAB valve1,AutoEncoder,0.4123,0.4485
+SKAB valve1,AutoEncoder,0.407,0.45
+SKAB valve1,AutoEncoder,0.4035,0.4536
+SKAB valve1,AutoEncoder,0.4018,0.4594
+SKAB valve1,AutoEncoder,0.4018,0.4673
+SKAB valve1,AutoEncoder,0.4,0.473
+SKAB valve1,AutoEncoder,0.3982,0.4794
+SKAB valve1,AutoEncoder,0.3956,0.4849
+SKAB valve1,AutoEncoder,0.3921,0.4896
+SKAB valve1,AutoEncoder,0.3904,0.4967
+SKAB valve1,AutoEncoder,0.3877,0.5028
+SKAB valve1,AutoEncoder,0.3825,0.5052
+SKAB valve1,AutoEncoder,0.3781,0.5101
+SKAB valve1,AutoEncoder,0.3719,0.5121
+SKAB valve1,AutoEncoder,0.3649,0.5129
+SKAB valve1,AutoEncoder,0.3623,0.5208
+SKAB valve1,AutoEncoder,0.3596,0.5284
+SKAB valve1,AutoEncoder,0.3561,0.5356
+SKAB valve1,AutoEncoder,0.35,0.5377
+SKAB valve1,AutoEncoder,0.3456,0.5434
+SKAB valve1,AutoEncoder,0.3412,0.5494
+SKAB valve1,AutoEncoder,0.3377,0.5572
+SKAB valve1,AutoEncoder,0.3351,0.5668
+SKAB valve1,AutoEncoder,0.3316,0.5753
+SKAB valve1,AutoEncoder,0.3281,0.5835
+SKAB valve1,AutoEncoder,0.3193,0.5833
+SKAB valve1,AutoEncoder,0.3123,0.5865
+SKAB valve1,AutoEncoder,0.307,0.5932
+SKAB valve1,AutoEncoder,0.3009,0.5986
+SKAB valve1,AutoEncoder,0.2939,0.6025
+SKAB valve1,AutoEncoder,0.2868,0.6056
+SKAB valve1,AutoEncoder,0.2754,0.6004
+SKAB valve1,AutoEncoder,0.2667,0.6008
+SKAB valve1,AutoEncoder,0.2561,0.5971
+SKAB valve1,AutoEncoder,0.2456,0.5932
+SKAB valve1,AutoEncoder,0.236,0.5912
+SKAB valve1,AutoEncoder,0.2228,0.5799
+SKAB valve1,AutoEncoder,0.2123,0.5735
+SKAB valve1,AutoEncoder,0.1991,0.5605
+SKAB valve1,AutoEncoder,0.1895,0.5567
+SKAB valve1,AutoEncoder,0.1798,0.5526
+SKAB valve1,AutoEncoder,0.1675,0.5395
+SKAB valve1,AutoEncoder,0.157,0.5312
+SKAB valve1,AutoEncoder,0.1465,0.5202
+SKAB valve1,AutoEncoder,0.1395,0.523
+SKAB valve1,AutoEncoder,0.1272,0.5052
+SKAB valve1,AutoEncoder,0.1167,0.4926
+SKAB valve1,AutoEncoder,0.1053,0.4743
+SKAB valve1,AutoEncoder,0.0921,0.4449
+SKAB valve1,AutoEncoder,0.0816,0.4247
+SKAB valve1,AutoEncoder,0.0702,0.3941
+SKAB valve1,AutoEncoder,0.0632,0.3871
+SKAB valve1,AutoEncoder,0.0526,0.355
+SKAB valve1,AutoEncoder,0.043,0.3224
+SKAB valve1,AutoEncoder,0.0351,0.2963
+SKAB valve1,AutoEncoder,0.0263,0.2542
+SKAB valve1,AutoEncoder,0.0193,0.2157
+SKAB valve1,AutoEncoder,0.0132,0.1765
+SKAB valve1,AutoEncoder,0.0088,0.1471
+SKAB valve1,AutoEncoder,0.0044,0.098
+SKAB valve1,AutoEncoder,0.0018,0.0588
+SKAB valve1,AutoEncoder,0.0009,0.0588
+SKAB valve1,AutoEncoder,0.0,1.0
+SKAB valve1,Control chart (EWMA),1.0,0.3386
+SKAB valve1,Control chart (EWMA),1.0,0.3402
+SKAB valve1,Control chart (EWMA),0.9974,0.341
+SKAB valve1,Control chart (EWMA),0.9947,0.3419
+SKAB valve1,Control chart (EWMA),0.9921,0.3427
+SKAB valve1,Control chart (EWMA),0.9904,0.3439
+SKAB valve1,Control chart (EWMA),0.9877,0.3448
+SKAB valve1,Control chart (EWMA),0.9842,0.3453
+SKAB valve1,Control chart (EWMA),0.9816,0.3462
+SKAB valve1,Control chart (EWMA),0.9807,0.3477
+SKAB valve1,Control chart (EWMA),0.9754,0.3477
+SKAB valve1,Control chart (EWMA),0.9711,0.348
+SKAB valve1,Control chart (EWMA),0.9667,0.3483
+SKAB valve1,Control chart (EWMA),0.9632,0.3488
+SKAB valve1,Control chart (EWMA),0.9579,0.3488
+SKAB valve1,Control chart (EWMA),0.9561,0.35
+SKAB valve1,Control chart (EWMA),0.9526,0.3507
+SKAB valve1,Control chart (EWMA),0.9482,0.351
+SKAB valve1,Control chart (EWMA),0.9456,0.3519
+SKAB valve1,Control chart (EWMA),0.9421,0.3526
+SKAB valve1,Control chart (EWMA),0.9368,0.3526
+SKAB valve1,Control chart (EWMA),0.9307,0.3523
+SKAB valve1,Control chart (EWMA),0.9263,0.3526
+SKAB valve1,Control chart (EWMA),0.9228,0.3533
+SKAB valve1,Control chart (EWMA),0.9193,0.3539
+SKAB valve1,Control chart (EWMA),0.9158,0.3545
+SKAB valve1,Control chart (EWMA),0.9096,0.3542
+SKAB valve1,Control chart (EWMA),0.9035,0.3538
+SKAB valve1,Control chart (EWMA),0.9018,0.3552
+SKAB valve1,Control chart (EWMA),0.8974,0.3556
+SKAB valve1,Control chart (EWMA),0.893,0.3559
+SKAB valve1,Control chart (EWMA),0.8868,0.3556
+SKAB valve1,Control chart (EWMA),0.8807,0.3553
+SKAB valve1,Control chart (EWMA),0.8728,0.3542
+SKAB valve1,Control chart (EWMA),0.8702,0.3553
+SKAB valve1,Control chart (EWMA),0.8649,0.3553
+SKAB valve1,Control chart (EWMA),0.8588,0.355
+SKAB valve1,Control chart (EWMA),0.8561,0.3561
+SKAB valve1,Control chart (EWMA),0.8526,0.3567
+SKAB valve1,Control chart (EWMA),0.8439,0.3552
+SKAB valve1,Control chart (EWMA),0.8404,0.356
+SKAB valve1,Control chart (EWMA),0.8351,0.356
+SKAB valve1,Control chart (EWMA),0.8298,0.356
+SKAB valve1,Control chart (EWMA),0.8254,0.3564
+SKAB valve1,Control chart (EWMA),0.8219,0.3572
+SKAB valve1,Control chart (EWMA),0.8167,0.3573
+SKAB valve1,Control chart (EWMA),0.8132,0.3581
+SKAB valve1,Control chart (EWMA),0.8096,0.3589
+SKAB valve1,Control chart (EWMA),0.8035,0.3585
+SKAB valve1,Control chart (EWMA),0.8,0.3593
+SKAB valve1,Control chart (EWMA),0.793,0.3584
+SKAB valve1,Control chart (EWMA),0.7886,0.3589
+SKAB valve1,Control chart (EWMA),0.7825,0.3585
+SKAB valve1,Control chart (EWMA),0.7781,0.359
+SKAB valve1,Control chart (EWMA),0.7754,0.3602
+SKAB valve1,Control chart (EWMA),0.7684,0.3595
+SKAB valve1,Control chart (EWMA),0.7649,0.3603
+SKAB valve1,Control chart (EWMA),0.7596,0.3604
+SKAB valve1,Control chart (EWMA),0.7544,0.3604
+SKAB valve1,Control chart (EWMA),0.7482,0.3601
+SKAB valve1,Control chart (EWMA),0.7456,0.3614
+SKAB valve1,Control chart (EWMA),0.7395,0.361
+SKAB valve1,Control chart (EWMA),0.7351,0.3615
+SKAB valve1,Control chart (EWMA),0.7307,0.3619
+SKAB valve1,Control chart (EWMA),0.7289,0.3637
+SKAB valve1,Control chart (EWMA),0.7219,0.3629
+SKAB valve1,Control chart (EWMA),0.7149,0.3621
+SKAB valve1,Control chart (EWMA),0.7088,0.3617
+SKAB valve1,Control chart (EWMA),0.7,0.3599
+SKAB valve1,Control chart (EWMA),0.6965,0.3609
+SKAB valve1,Control chart (EWMA),0.6886,0.3596
+SKAB valve1,Control chart (EWMA),0.6868,0.3615
+SKAB valve1,Control chart (EWMA),0.6833,0.3625
+SKAB valve1,Control chart (EWMA),0.6781,0.3626
+SKAB valve1,Control chart (EWMA),0.6754,0.3641
+SKAB valve1,Control chart (EWMA),0.6684,0.363
+SKAB valve1,Control chart (EWMA),0.6614,0.3622
+SKAB valve1,Control chart (EWMA),0.6553,0.3617
+SKAB valve1,Control chart (EWMA),0.6491,0.3613
+SKAB valve1,Control chart (EWMA),0.6439,0.3614
+SKAB valve1,Control chart (EWMA),0.6404,0.3625
+SKAB valve1,Control chart (EWMA),0.6351,0.3625
+SKAB valve1,Control chart (EWMA),0.6289,0.3621
+SKAB valve1,Control chart (EWMA),0.6237,0.3622
+SKAB valve1,Control chart (EWMA),0.6158,0.3607
+SKAB valve1,Control chart (EWMA),0.6096,0.3603
+SKAB valve1,Control chart (EWMA),0.6061,0.3614
+SKAB valve1,Control chart (EWMA),0.6018,0.362
+SKAB valve1,Control chart (EWMA),0.5965,0.3619
+SKAB valve1,Control chart (EWMA),0.5895,0.3609
+SKAB valve1,Control chart (EWMA),0.586,0.3621
+SKAB valve1,Control chart (EWMA),0.5798,0.3616
+SKAB valve1,Control chart (EWMA),0.5746,0.3617
+SKAB valve1,Control chart (EWMA),0.5719,0.3634
+SKAB valve1,Control chart (EWMA),0.5658,0.363
+SKAB valve1,Control chart (EWMA),0.5579,0.3614
+SKAB valve1,Control chart (EWMA),0.5535,0.362
+SKAB valve1,Control chart (EWMA),0.5474,0.3615
+SKAB valve1,Control chart (EWMA),0.543,0.3622
+SKAB valve1,Control chart (EWMA),0.5368,0.3617
+SKAB valve1,Control chart (EWMA),0.5307,0.361
+SKAB valve1,Control chart (EWMA),0.5228,0.3593
+SKAB valve1,Control chart (EWMA),0.5184,0.3599
+SKAB valve1,Control chart (EWMA),0.5149,0.3612
+SKAB valve1,Control chart (EWMA),0.5096,0.3613
+SKAB valve1,Control chart (EWMA),0.5018,0.3595
+SKAB valve1,Control chart (EWMA),0.4939,0.3577
+SKAB valve1,Control chart (EWMA),0.4895,0.3584
+SKAB valve1,Control chart (EWMA),0.4825,0.3571
+SKAB valve1,Control chart (EWMA),0.4737,0.3546
+SKAB valve1,Control chart (EWMA),0.4684,0.3546
+SKAB valve1,Control chart (EWMA),0.4649,0.3559
+SKAB valve1,Control chart (EWMA),0.4579,0.3544
+SKAB valve1,Control chart (EWMA),0.4535,0.3551
+SKAB valve1,Control chart (EWMA),0.4465,0.3537
+SKAB valve1,Control chart (EWMA),0.4377,0.3509
+SKAB valve1,Control chart (EWMA),0.4333,0.3516
+SKAB valve1,Control chart (EWMA),0.4281,0.3516
+SKAB valve1,Control chart (EWMA),0.4237,0.3523
+SKAB valve1,Control chart (EWMA),0.4184,0.3523
+SKAB valve1,Control chart (EWMA),0.4149,0.3538
+SKAB valve1,Control chart (EWMA),0.4105,0.3545
+SKAB valve1,Control chart (EWMA),0.4061,0.3553
+SKAB valve1,Control chart (EWMA),0.4009,0.3554
+SKAB valve1,Control chart (EWMA),0.3991,0.3586
+SKAB valve1,Control chart (EWMA),0.3956,0.3599
+SKAB valve1,Control chart (EWMA),0.393,0.3625
+SKAB valve1,Control chart (EWMA),0.3868,0.3618
+SKAB valve1,Control chart (EWMA),0.3842,0.3644
+SKAB valve1,Control chart (EWMA),0.3772,0.3629
+SKAB valve1,Control chart (EWMA),0.3719,0.363
+SKAB valve1,Control chart (EWMA),0.3702,0.3666
+SKAB valve1,Control chart (EWMA),0.3658,0.3677
+SKAB valve1,Control chart (EWMA),0.364,0.3715
+SKAB valve1,Control chart (EWMA),0.3588,0.3718
+SKAB valve1,Control chart (EWMA),0.3553,0.374
+SKAB valve1,Control chart (EWMA),0.3491,0.3734
+SKAB valve1,Control chart (EWMA),0.3447,0.3743
+SKAB valve1,Control chart (EWMA),0.3421,0.3775
+SKAB valve1,Control chart (EWMA),0.3386,0.3799
+SKAB valve1,Control chart (EWMA),0.3351,0.3824
+SKAB valve1,Control chart (EWMA),0.3316,0.3849
+SKAB valve1,Control chart (EWMA),0.3263,0.3855
+SKAB valve1,Control chart (EWMA),0.3219,0.3871
+SKAB valve1,Control chart (EWMA),0.3184,0.3899
+SKAB valve1,Control chart (EWMA),0.3167,0.395
+SKAB valve1,Control chart (EWMA),0.314,0.3991
+SKAB valve1,Control chart (EWMA),0.3105,0.4023
+SKAB valve1,Control chart (EWMA),0.307,0.4056
+SKAB valve1,Control chart (EWMA),0.3026,0.4078
+SKAB valve1,Control chart (EWMA),0.2974,0.4084
+SKAB valve1,Control chart (EWMA),0.293,0.4108
+SKAB valve1,Control chart (EWMA),0.2895,0.4146
+SKAB valve1,Control chart (EWMA),0.286,0.4185
+SKAB valve1,Control chart (EWMA),0.2789,0.4173
+SKAB valve1,Control chart (EWMA),0.2711,0.4148
+SKAB valve1,Control chart (EWMA),0.2684,0.4203
+SKAB valve1,Control chart (EWMA),0.2605,0.4177
+SKAB valve1,Control chart (EWMA),0.2553,0.4193
+SKAB valve1,Control chart (EWMA),0.2526,0.4254
+SKAB valve1,Control chart (EWMA),0.2456,0.4242
+SKAB valve1,Control chart (EWMA),0.243,0.4308
+SKAB valve1,Control chart (EWMA),0.2395,0.4354
+SKAB valve1,Control chart (EWMA),0.2333,0.4361
+SKAB valve1,Control chart (EWMA),0.2254,0.4334
+SKAB valve1,Control chart (EWMA),0.2211,0.4375
+SKAB valve1,Control chart (EWMA),0.214,0.4365
+SKAB valve1,Control chart (EWMA),0.2088,0.4391
+SKAB valve1,Control chart (EWMA),0.2044,0.4438
+SKAB valve1,Control chart (EWMA),0.2,0.4488
+SKAB valve1,Control chart (EWMA),0.1965,0.4562
+SKAB valve1,Control chart (EWMA),0.193,0.4641
+SKAB valve1,Control chart (EWMA),0.186,0.4639
+SKAB valve1,Control chart (EWMA),0.1789,0.4636
+SKAB valve1,Control chart (EWMA),0.1728,0.4657
+SKAB valve1,Control chart (EWMA),0.1693,0.4742
+SKAB valve1,Control chart (EWMA),0.1649,0.4821
+SKAB valve1,Control chart (EWMA),0.157,0.4799
+SKAB valve1,Control chart (EWMA),0.1518,0.486
+SKAB valve1,Control chart (EWMA),0.1465,0.4926
+SKAB valve1,Control chart (EWMA),0.1395,0.4938
+SKAB valve1,Control chart (EWMA),0.1333,0.4984
+SKAB valve1,Control chart (EWMA),0.1263,0.5
+SKAB valve1,Control chart (EWMA),0.1202,0.5055
+SKAB valve1,Control chart (EWMA),0.1158,0.5197
+SKAB valve1,Control chart (EWMA),0.1114,0.5359
+SKAB valve1,Control chart (EWMA),0.1079,0.5591
+SKAB valve1,Control chart (EWMA),0.1035,0.5784
+SKAB valve1,Control chart (EWMA),0.0965,0.5882
+SKAB valve1,Control chart (EWMA),0.0912,0.6118
+SKAB valve1,Control chart (EWMA),0.0807,0.6013
+SKAB valve1,Control chart (EWMA),0.0711,0.5956
+SKAB valve1,Control chart (EWMA),0.0623,0.5966
+SKAB valve1,Control chart (EWMA),0.0518,0.5784
+SKAB valve1,Control chart (EWMA),0.0412,0.5529
+SKAB valve1,Control chart (EWMA),0.0289,0.4853
+SKAB valve1,Control chart (EWMA),0.0237,0.5294
+SKAB valve1,Control chart (EWMA),0.0167,0.5588
+SKAB valve1,Control chart (EWMA),0.0123,0.8235
+SKAB valve1,Control chart (EWMA),0.0,1.0

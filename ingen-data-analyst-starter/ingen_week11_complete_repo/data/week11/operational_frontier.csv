@@ -1,0 +1,6 @@
+dataset,model,persistence_readings,threshold,events_caught,events_total,alerts_total,false_alerts,false_alerts_per_day,point_recall,span_days
+NAB machine_temperature,AutoEncoder,24,2.1589,4,4,41,36,0.504,0.877,71.4
+NAB machine_temperature,AutoEncoder,12,2.1589,4,4,59,52,0.729,0.8951,71.4
+NAB machine_temperature,AutoEncoder,6,2.1589,4,4,86,78,1.093,0.907,71.4
+NAB machine_temperature,AutoEncoder,3,2.1589,4,4,185,173,2.424,0.9162,71.4
+NAB machine_temperature,AutoEncoder,1,2.1589,4,4,1211,1167,16.35,0.9427,71.4

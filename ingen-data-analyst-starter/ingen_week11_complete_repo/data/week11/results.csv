@@ -1,0 +1,11 @@
+dataset,model,precision,recall,f1,avg_precision,false_alarm_rate,within_far_budget,met_recall_floor,ttd_seconds,events_detected,events_total,threshold,tp,fp,tn,fn
+NAB machine_temperature,Isolation Forest,0.3486,0.8003,0.4857,0.4993,0.1853,False,True,0.0,4,4,-0.014715,1815,3391,14910,453
+NAB machine_temperature,One-Class SVM,0.2367,0.8003,0.3654,0.475,0.3198,False,True,7125.0,4,4,3.545046,1815,5852,12449,453
+NAB machine_temperature,LOF,0.1744,0.8003,0.2864,0.2611,0.4695,False,True,20400.0,4,4,2.319558,1815,8593,9708,453
+NAB machine_temperature,AutoEncoder,0.4254,0.8003,0.5555,0.5124,0.134,False,True,4800.0,4,4,3.039855,1815,2452,15849,453
+NAB machine_temperature,Control chart (EWMA),0.2533,0.8003,0.3848,0.3227,0.2924,False,True,1875.0,4,4,1.511903,1815,5351,12950,453
+SKAB valve1,Isolation Forest,0.3461,0.8421,0.4905,0.3464,0.8145,False,True,0.0,3,3,0.136443,960,1814,413,180
+SKAB valve1,One-Class SVM,0.3386,1.0,0.5059,0.3386,1.0,False,True,0.0,3,3,35.377539,1140,2227,0,0
+SKAB valve1,LOF,0.4122,0.8053,0.5453,0.5313,0.5878,False,True,0.7,3,3,29.973276,918,1309,918,222
+SKAB valve1,AutoEncoder,0.4033,0.8456,0.5462,0.4364,0.6403,False,True,31.0,3,3,92.380714,964,1426,801,176
+SKAB valve1,Control chart (EWMA),0.3596,0.8,0.4962,0.4051,0.7292,False,True,0.0,3,3,1.126675,912,1624,603,228

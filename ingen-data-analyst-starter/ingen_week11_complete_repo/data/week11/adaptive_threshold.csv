@@ -1,0 +1,5 @@
+dataset,model,scheme,precision,recall,f1,false_alarm_rate,ttd_seconds,events_detected,events_total,tp,fp,tn,fn
+NAB machine_temperature,AutoEncoder,Fixed threshold,0.4252,0.7998,0.5552,0.134,4800.0,4,4,1814,2452,15849,454
+NAB machine_temperature,AutoEncoder,"Adaptive — rolling quantile (W=1000, q=0.98)",0.5561,0.3342,0.4175,0.0331,13725.0,4,4,758,605,17696,1510
+NAB machine_temperature,AutoEncoder,Adaptive — EWMA + 3.0sigma (alpha=0.01),0.1858,0.0243,0.0429,0.0132,59700.0,4,4,55,241,18060,2213
+NAB machine_temperature,AutoEncoder,"Adaptive — rolling quantile + baseline freeze (W=1000, q=0.98)",0.2029,0.8316,0.3262,0.4048,16200.0,4,4,1886,7409,10892,382

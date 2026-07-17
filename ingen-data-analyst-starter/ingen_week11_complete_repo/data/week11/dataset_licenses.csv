@@ -1,0 +1,3 @@
+dataset,name,series_used,url,license,labels,citation
+NAB,Numenta Anomaly Benchmark (NAB),realKnownCause/machine_temperature_system_failure.csv,https://github.com/numenta/NAB,MIT License (Copyright 2014-2024 Numenta Inc.),hand-labelled anomaly windows (combined_windows.json),"Lavin & Ahmad (2015), 'Evaluating Real-time Anomaly Detection Algorithms — the Numenta Anomaly Benchmark', IEEE ICMLA."
+SKAB,Skoltech Anomaly Benchmark (SKAB),"valve1/0.csv, valve1/1.csv, valve1/2.csv",https://github.com/waico/SKAB,GNU General Public License v3 (GPL-3.0),per-point `anomaly` (0/1) and `changepoint` columns,"Katser & Kozitsin (2020), 'Skoltech Anomaly Benchmark (SKAB)', Kaggle."
