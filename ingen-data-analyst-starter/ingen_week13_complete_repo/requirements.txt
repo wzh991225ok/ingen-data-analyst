@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+reportlab>=4.0
+matplotlib>=3.7
+# Week 13 reads the committed outputs of Weeks 4-12; those weeks' own
+# requirements.txt files carry their analysis dependencies
+# (duckdb, statsmodels, simpy, pyod, torch, prophet, xgboost, scikit-learn).
