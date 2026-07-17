@@ -1,0 +1,10 @@
+driver,generating_param,expected_direction,estimated_effect_pct,estimated_direction,significant,direction_recovered
+severity=Critical,service x0.55,faster,-39.9,faster,True,True
+severity=High,service x0.8,faster,-19.9,faster,True,True
+severity=Low,service x1.15,slower,27.8,slower,True,True
+region=Europe,parts lead x1.25,slower,5.3,slower,False,True
+region=APAC,parts lead x1.5,slower,7.1,slower,False,True
+product=Aido Humanoid,repair x1.5,slower,4.4,slower,False,True
+product=Aido Rover,repair x1.35,slower,1.2,slower,False,True
+product=Sentinel Prime AI,repair x1.1,slower,-0.1,faster,False,False
+product=Senpai,repair x0.85,faster,2.9,slower,False,False

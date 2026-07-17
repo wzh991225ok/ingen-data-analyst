@@ -1,0 +1,5 @@
+scenario,paired_delta_hours,ci_low,ci_high,paired_delta_pct,significant_95
+S1 +1 Field Ops FTE,-1.954,-2.414,-1.495,-7.52,True
+S2 Reroute low-severity triage,-0.484,-1.02,0.052,-1.86,False
+S3 Regional parts buffer (EU+APAC),-5.955,-6.516,-5.394,-22.9,True
+S4 +1 Field FTE + parts buffer,-7.555,-8.015,-7.095,-29.06,True

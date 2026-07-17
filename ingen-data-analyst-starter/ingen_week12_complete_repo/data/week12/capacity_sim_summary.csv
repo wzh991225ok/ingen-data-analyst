@@ -1,0 +1,6 @@
+scenario,mean,ci_low,ci_high,p90_cycle_hours,mean_field_wait_hours,delta_hours_vs_base,delta_pct_vs_base
+S0 Baseline,25.998,25.533,26.462,63.926,4.918,0.0,0.0
+S1 +1 Field Ops FTE,24.043,23.654,24.432,57.722,0.359,-1.954,-7.52
+S2 Reroute low-severity triage,25.513,25.204,25.823,64.245,5.377,-0.484,-1.86
+S3 Regional parts buffer (EU+APAC),20.043,19.807,20.278,46.908,4.891,-5.955,-22.9
+S4 +1 Field FTE + parts buffer,18.442,18.266,18.618,41.172,0.335,-7.555,-29.06
